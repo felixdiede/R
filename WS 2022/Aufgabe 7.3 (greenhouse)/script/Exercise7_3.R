@@ -45,12 +45,12 @@ aggregate(greenhouse$Tonnes.Co2e, list(greenhouse$Country), FUN = "sum")
 meta <- read.csv(file = "data/meta_data.csv", header = TRUE, sep = ";")
 
 meta_greenhouse = meta[meta$Country %in% greenhouse$Country,]
-greenhouse$Rel.Tonnes.Co2e = rep(0, nrow(greenhouse))
+greenhouse$rel.Tonnes.Co2e = rep(0, nrow(greenhouse))
 
 for(i in 1:nrow(greenhouse)){ # nolint
   country = greenhouse$Country[i]
   bevoelkerung = meta[which(meta$Country == country), which(colnames(meta) == "Population")]
-  greenhouse$Rel.Tonnes.Co2e[i] = greenhouse$Tonnes.Co2e[i] / bevoelkerung
+  greenhouse$rel.Tonnes.Co2e[i] = greenhouse$Tonnes.Co2e[i] / bevoelkerung
 }
 
 # Aufgabe 7.3 e) 
@@ -62,7 +62,7 @@ berechne_rel_summe <- function(df, column) {
 
     for(i in 1:length(elemente)) { # nolint
         element[i] <- elemente[i]
-        summe[i] <- sum(df[which(df[, which(colnames(df) == column)] == elemente[i]), which(colnames(df) == "Rel.Tonnes.Co2e")])
+        summe[i] <- sum(df[which(df[, which(colnames(df) == column)] == elemente[i]), which(colnames(df) == "rel.Tonnes.Co2e")])
     }
 
 
