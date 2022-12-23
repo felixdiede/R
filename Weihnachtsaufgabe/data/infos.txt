@@ -1,0 +1,24 @@
+Datensatz "energie_timeline"
+
+- Dimensionen: 21 x 10
+
+- Datum: Stichtag zu dem die Daten erhoben wurden 
+- Super_E5: Durchschnitts-Preis von E5-Benzin an deutschen Tankstellen 
+- Super_E10: Durchschnitts-Preis von E10-Benzin an deutschen Tankstellen 
+- Diesel: Durchschnitts-Preis von Diesel an deutschen Tankstellen 
+- Verbraucherpreise: Änderung in Prozent der Verbraucherpreise im Vergleich zu 2018 
+- Einfuhrpreis_Erdgas: Änderung in Prozent des Einfuhrpreises für Erdgas im Vergleich zu 2018 
+- Erzeugerpreise_leichtes_heizöl: Änderung in Prozent des Erzeugerpreises für Heizöl im Vergleich zu 2018 
+- verbraucherpreis_erdgas: Änderung in Prozent des Verbraucherpreises für Erdgas im Vergleich zu 2018 
+- strompreis: Durchschnittlicher Strompreis pro Kilowattstunde 
+- erdgasspeicherstand: Füllstand in Prozent deutscher Erdgasspeicher 
+
+
+Datensatz "haushalte"
+- Dimensionen: 6 x 14
+
+- Haushaltgröße: Anzahl an Personen pro Haushalt 
+- Anzahl: Anzahl an Haushalten betrachtet 
+- Spalte 3-14: Durchschnittliche Ausgaben für verschiedene Bereiche in Euro für die angegebene Haushaltsgröße  
+
+
