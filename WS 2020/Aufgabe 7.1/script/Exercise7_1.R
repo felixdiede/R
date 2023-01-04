@@ -32,7 +32,7 @@ amazing_animation <- function(vec, steps, name){
   subset = seq(5,length(vec),steps)
   x <- (seq(-4, 4, length = length(vec)) - mean(vec))/sd(vec)
   saveGIF(expr = (
-    for(i in 1:(length(subset))) {
+    for(i in 1:(length(subset))) { # nolint
       hist(vec[1:subset[i]], freq = FALSE, xlab = name)
       curve(dnorm(x, mean(vec), sd(vec)), add=TRUE, col="red")
     }
