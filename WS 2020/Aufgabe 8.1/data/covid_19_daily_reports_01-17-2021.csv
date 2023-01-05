@@ -1,0 +1,3967 @@
+Province_State;Country_Region;Confirmed;Deaths;Recovered;Active
+Afghanistan;Afghanistan;53984;2339;45868;5777
+Albania;Albania;67690;1277;40453;25960
+Algeria;Algeria;103833;2836;70554;30443
+Andorra;Andorra;9083;91;8154;838
+Angola;Angola;18875;436;16347;2092
+Antigua and Barbuda;Antigua and Barbuda;189;6;156;27
+Argentina;Argentina;1799243;45407;1583465;170371
+Armenia;Armenia;164586;2992;152772;8822
+Australian Capital Territory;Australia;118;3;115;0
+New South Wales;Australia;5074;54;3229;1791
+Northern Territory;Australia;93;0;84;9
+Queensland;Australia;1294;6;1254;34
+South Australia;Australia;593;4;578;11
+Tasmania;Australia;234;13;221;0
+Victoria;Australia;20428;820;19575;33
+Western Australia;Australia;887;9;865;13
+Austria;Austria;393778;7082;369218;17478
+Azerbaijan;Azerbaijan;227273;3009;215268;8996
+Bahamas;Bahamas;8032;175;6525;1332
+Bahrain;Bahrain;97607;360;94297;2950
+Bangladesh;Bangladesh;527632;7906;472437;47289
+Barbados;Barbados;1095;7;493;595
+Belarus;Belarus;225461;1582;209208;14671
+Antwerp;Belgium;84093;0;0;84093
+Brussels;Belgium;85239;0;0;85239
+East Flanders;Belgium;69433;0;0;69433
+Flemish Brabant;Belgium;51614;0;0;51614
+Hainaut;Belgium;105600;0;0;105600
+Liege;Belgium;99311;0;0;99311
+Limburg;Belgium;31638;0;0;31638
+Luxembourg;Belgium;19224;0;0;19224
+Namur;Belgium;36556;0;0;36556
+Walloon Brabant;Belgium;26213;0;0;26213
+West Flanders;Belgium;58077;0;0;58077
+Belize;Belize;11580;281;10694;605
+Benin;Benin;3413;46;3245;122
+Bhutan;Bhutan;842;1;574;267
+Bolivia;Bolivia;187183;9636;143437;34110
+Bosnia and Herzegovina;Bosnia and Herzegovina;117011;4411;84650;27950
+Botswana;Botswana;17365;71;13519;3775
+Acre;Brazil;44767;836;38970;4961
+Alagoas;Brazil;111443;2620;105707;3116
+Amapa;Brazil;73417;996;56436;15985
+Amazonas;Brazil;230644;6191;192016;32437
+Bahia;Brazil;537772;9638;516078;12056
+Ceara;Brazil;353388;10223;278720;64445
+Distrito Federal;Brazil;264227;4421;251876;7930
+Espirito Santo;Brazil;275504;5506;255526;14472
+Goias;Brazil;328098;7102;316154;4842
+Maranhao;Brazil;203423;4606;192550;6267
+Mato Grosso;Brazil;197916;4721;185040;8155
+Mato Grosso do Sul;Brazil;150498;2674;135209;12615
+Minas Gerais;Brazil;643609;13465;567999;62145
+Para;Brazil;309526;7397;288474;13655
+Paraiba;Brazil;177618;3888;132838;40892
+Parana;Brazil;502599;9092;366090;127417
+Pernambuco;Brazil;241087;10020;205511;25556
+Piaui;Brazil;151397;2950;148193;254
+Rio Grande do Norte;Brazil;130350;3177;91645;35528
+Rio Grande do Sul;Brazil;506885;9921;479262;17702
+Rio de Janeiro;Brazil;482058;27791;445445;8822
+Rondonia;Brazil;109056;2005;89341;17710
+Roraima;Brazil;70948;811;67781;2356
+Santa Catarina;Brazil;541745;5886;512952;22907
+Sao Paulo;Brazil;1625339;49945;1390344;185050
+Sergipe;Brazil;128395;2652;113603;12140
+Tocantins;Brazil;96390;1313;85249;9828
+Brunei;Brunei;174;3;168;3
+Bulgaria;Bulgaria;211813;8483;156722;46608
+Burkina Faso;Burkina Faso;9188;102;7391;1695
+Burma;Burma;134318;2955;117663;13700
+Burundi;Burundi;1236;2;773;461
+Cabo Verde;Cabo Verde;12993;119;12219;655
+Cambodia;Cambodia;439;0;386;53
+Cameroon;Cameroon;28010;455;26861;694
+Alberta;Canada;116837;1436;103167;12234
+British Columbia;Canada;60117;1047;53115;5955
+Grand Princess;Canada;13;0;13;0
+Manitoba;Canada;27511;769;23661;3081
+New Brunswick;Canada;947;12;642;293
+Newfoundland and Labrador;Canada;396;4;383;9
+Northwest Territories;Canada;25;0;24;1
+Nova Scotia;Canada;1558;65;1464;29
+Nunavut;Canada;266;1;265;0
+Ontario;Canada;242339;5418;210004;26917
+Prince Edward Island;Canada;103;0;95;8
+Quebec;Canada;242714;9055;213008;20651
+Repatriated Travellers;Canada;13;0;13;0
+Saskatchewan;Canada;20272;215;15936;4121
+Yukon;Canada;70;1;67;2
+Central African Republic;Central African Republic;4973;63;4885;25
+Chad;Chad;2895;111;2130;654
+Antofagasta;Chile;27406;600;24946;1860
+Araucania;Chile;27529;361;25647;1521
+Arica y Parinacota;Chile;11780;244;10947;589
+Atacama;Chile;9236;119;8754;363
+Aysen;Chile;2043;18;1789;236
+Biobio;Chile;54896;935;50843;3118
+Coquimbo;Chile;15402;320;14575;507
+Los Lagos;Chile;33762;310;29749;3703
+Los Rios;Chile;11784;124;10366;1294
+Magallanes;Chile;18623;249;17780;594
+Maule;Chile;30823;629;27979;2215
+Metropolitana;Chile;331935;11068;315573;5294
+Nuble;Chile;12195;241;11304;650
+OHiggins;Chile;23655;625;22147;883
+Tarapaca;Chile;18804;315;17156;1333
+Valparaiso;Chile;39907;1318;36921;1668
+Anhui;China;993;6;987;0
+Beijing;China;1006;9;959;38
+Chongqing;China;591;6;584;1
+Fujian;China;532;1;509;22
+Gansu;China;182;2;180;0
+Guangdong;China;2087;8;2035;44
+Guangxi;China;266;2;262;2
+Guizhou;China;147;2;145;0
+Hainan;China;171;6;165;0
+Hebei;China;1157;7;379;771
+Heilongjiang;China;1116;13;953;150
+Henan;China;1303;22;1273;8
+Hong Kong;China;9557;162;8758;637
+Hubei;China;68149;4512;63637;0
+Hunan;China;1026;4;1017;5
+Inner Mongolia;China;366;1;350;15
+Jiangsu;China;688;0;684;4
+Jiangxi;China;935;1;934;0
+Jilin;China;197;2;155;40
+Liaoning;China;396;2;360;34
+Macau;China;46;0;46;0
+Ningxia;China;75;0;75;0
+Qinghai;China;18;0;18;0
+Shaanxi;China;530;3;502;25
+Shandong;China;865;7;856;2
+Shanghai;China;1598;7;1505;86
+Shanxi;China;227;0;224;3
+Sichuan;China;863;3;847;13
+Tianjin;China;329;3;306;20
+Tibet;China;1;0;1;0
+Xinjiang;China;980;3;977;0
+Yunnan;China;231;2;224;5
+Zhejiang;China;1311;1;1298;12
+Amazonas;Colombia;3451;129;3224;98
+Antioquia;Colombia;304080;5393;282215;16472
+Arauca;Colombia;5004;145;4525;334
+Atlantico;Colombia;105386;3640;97276;4470
+Bolivar;Colombia;59228;1192;55600;2436
+Boyaca;Colombia;35722;734;31571;3417
+Caldas;Colombia;39295;758;34774;3763
+Capital District;Colombia;556405;11243;493451;51711
+Caqueta;Colombia;15924;570;14447;907
+Casanare;Colombia;10338;200;9309;829
+Cauca;Colombia;22192;551;19637;2004
+Cesar;Colombia;36388;1042;33456;1890
+Choco;Colombia;5449;169;4977;303
+Cordoba;Colombia;31051;1692;28533;826
+Cundinamarca;Colombia;82458;2040;74178;6240
+Guainia;Colombia;1245;20;1216;9
+Guaviare;Colombia;2089;37;2009;43
+Huila;Colombia;40871;1263;36928;2680
+La Guajira;Colombia;15019;574;13856;589
+Magdalena;Colombia;27527;1137;25082;1308
+Meta;Colombia;37858;815;35458;1585
+Narino;Colombia;39986;1149;34862;3975
+Norte de Santander;Colombia;45757;2333;41190;2234
+Putumayo;Colombia;6725;264;5955;506
+Quindio;Colombia;27659;769;25123;1767
+Risaralda;Colombia;41052;923;37270;2859
+San Andres y Providencia;Colombia;2548;42;2463;43
+Santander;Colombia;77102;2660;69765;4677
+Sucre;Colombia;18301;690;17005;606
+Tolima;Colombia;55598;1579;50214;3805
+Valle del Cauca;Colombia;154378;4847;141791;7740
+Vaupes;Colombia;1143;13;1126;4
+Vichada;Colombia;1184;18;1147;19
+Comoros;Comoros;1592;45;1075;472
+Congo (Brazzaville);Congo (Brazzaville);7709;114;5846;1749
+Congo (Kinshasa);Congo (Kinshasa);20908;631;14807;5470
+Costa Rica;Costa Rica;184187;2416;141374;40397
+Cote d Ivoire;Cote d Ivoire;25241;141;23331;1769
+Croatia;Croatia;224954;4616;216280;4058
+Cuba;Cuba;18151;170;13543;4438
+Cyprus;Cyprus;28968;170;2057;26741
+Czechia;Czechia;889159;14338;726409;148412
+Faroe Islands;Denmark;649;1;641;7
+Greenland;Denmark;30;0;29;1
+Denmark;Denmark;189088;1775;168379;18934
+Diamond Princess;Diamond Princess;712;13;699;0
+Djibouti;Djibouti;5905;61;5822;22
+Dominica;Dominica;110;0;102;8
+Dominican Republic;Dominican Republic;193118;2437;143050;47631
+Ecuador;Ecuador;231482;14319;199332;17831
+Egypt;Egypt;156397;8583;122993;24821
+El Salvador;El Salvador;50784;1487;44777;4520
+Equatorial Guinea;Equatorial Guinea;5356;86;5189;81
+Eritrea;Eritrea;1877;6;1073;798
+Estonia;Estonia;37079;325;26443;10311
+Eswatini;Eswatini;12944;376;8222;4346
+Ethiopia;Ethiopia;131195;2030;116147;13018
+Fiji;Fiji;55;2;53;0
+Finland;Finland;40337;618;31000;8719
+French Guiana;France;14975;75;9995;4905
+French Polynesia;France;17635;126;4842;12667
+Guadeloupe;France;8834;156;2242;6436
+Martinique;France;6227;43;98;6086
+Mayotte;France;6611;58;2964;3589
+New Caledonia;France;44;0;40;4
+Reunion;France;9443;45;9053;345
+Saint Barthelemy;France;251;1;172;78
+Saint Pierre and Miquelon;France;16;0;16;0
+St Martin;France;1076;12;855;209
+Wallis and Futuna;France;4;0;1;3
+France;France;2903975;69906;184991;2649078
+Gabon;Gabon;9899;66;9658;175
+Gambia;Gambia;3910;127;3692;91
+Georgia;Georgia;247805;2933;232993;11879
+Baden-Wurttemberg;Germany;274829;6111;234191;34527
+Bayern;Germany;375137;8697;319013;47427
+Berlin;Germany;112516;1833;95600;15083
+Brandenburg;Germany;60907;1808;45004;14095
+Bremen;Germany;14943;232;13406;1305
+Hamburg;Germany;42879;906;34585;7388
+Hessen;Germany;158968;3964;132119;22885
+Mecklenburg-Vorpommern;Germany;16746;308;13099;3339
+Niedersachsen;Germany;128826;2634;110640;15552
+Nordrhein-Westfalen;Germany;451898;9123;385774;57001
+Rheinland-Pfalz;Germany;85053;2056;68099;14898
+Saarland;Germany;23442;642;20948;1852
+Sachsen;Germany;167286;5104;134900;27282
+Sachsen-Anhalt;Germany;43421;1192;33201;9028
+Schleswig-Holstein;Germany;31171;652;24588;5931
+Thuringen;Germany;57594;1639;44373;11582
+Ghana;Ghana;57714;346;55592;1776
+Greece;Greece;148607;5469;93764;49374
+Grenada;Grenada;139;1;129;9
+Guatemala;Guatemala;148888;5254;134344;9290
+Guinea;Guinea;14114;81;13338;695
+Guinea-Bissau;Guinea-Bissau;2509;45;2405;59
+Guyana;Guyana;6908;170;6165;573
+Haiti;Haiti;10781;240;8920;1621
+Holy See;Holy See;27;0;15;12
+Honduras;Honduras;134111;3354;60132;70625
+Hungary;Hungary;351828;11341;228615;111872
+Iceland;Iceland;5956;29;5767;160
+Andaman and Nicobar Islands;India;4983;62;4896;25
+Andhra Pradesh;India;885985;7140;876949;1896
+Arunachal Pradesh;India;16811;56;16697;58
+Assam;India;216831;1073;212839;2919
+Bihar;India;257610;1457;252331;3822
+Chandigarh;India;20537;330;19978;229
+Chhattisgarh;India;293501;3558;283111;6832
+Dadra and Nagar Haveli and Daman and Diu;India;3390;2;3377;11
+Delhi;India;632429;10746;619139;2544
+Goa;India;52405;756;50771;878
+Gujarat;India;255872;4365;245107;6400
+Haryana;India;266309;2985;261230;2094
+Himachal Pradesh;India;56943;966;55280;697
+Jammu and Kashmir;India;123343;1921;120198;1224
+Jharkhand;India;117686;1050;115411;1225
+Karnataka;India;931997;12166;911232;8599
+Kerala;India;847848;3463;775176;69209
+Ladakh;India;9656;128;9437;91
+Lakshadweep;India;0;0;0;0
+Madhya Pradesh;India;251578;3753;241426;6399
+Maharashtra;India;1990759;50438;1886469;53852
+Manipur;India;28856;366;28147;343
+Meghalaya;India;13704;144;13412;148
+Mizoram;India;4323;9;4235;79
+Nagaland;India;12058;88;11854;116
+Odisha;India;333310;1900;329546;1864
+Puducherry;India;38646;642;37720;284
+Punjab;India;170605;5504;162484;2617
+Rajasthan;India;315181;2747;307384;5050
+Sikkim;India;6038;130;5747;161
+Tamil Nadu;India;830772;12264;812568;5940
+Telangana;India;291872;1579;286244;4049
+Tripura;India;33332;391;32902;39
+Uttar Pradesh;India;596528;8576;579071;8881
+Uttarakhand;India;94803;1611;90838;2354
+West Bengal;India;565272;10053;548136;7083
+Indonesia;Indonesia;907929;25987;736460;145482
+Iran;Iran;1330411;56803;1119137;154471
+Iraq;Iraq;608232;12944;569429;25859
+Ireland;Ireland;172726;2608;23364;146754
+Israel;Israel;551689;4005;467017;80667
+Abruzzo;Italy;39315;1325;26438;11552
+Basilicata;Italy;12501;293;5290;6918
+Calabria;Italy;29073;535;18305;10233
+Campania;Italy;207149;3370;130668;73111
+Emilia-Romagna;Italy;201988;8746;138411;54831
+Friuli Venezia Giulia;Italy;60766;2092;45936;12738
+Lazio;Italy;189643;4399;107734;77510
+Liguria;Italy;65763;3116;57681;4966
+Lombardia;Italy;514166;26237;431787;56142
+Marche;Italy;50111;1783;37786;10542
+Molise;Italy;7553;231;6178;1144
+P.A. Bolzano;Italy;33519;809;20611;12099
+P.A. Trento;Italy;25073;1062;21581;2430
+Piemonte;Italy;212760;8400;189360;15000
+Puglia;Italy;109428;2850;50458;56120
+Sardegna;Italy;35774;903;17123;17748
+Sicilia;Italy;120729;2989;71315;46425
+Toscana;Italy;127852;3972;115676;8204
+Umbria;Italy;32303;693;27004;4606
+Valle d Aosta;Italy;7639;394;6830;415
+Veneto;Italy;298172;7978;219554;70640
+Jamaica;Jamaica;14161;324;11709;2128
+Aichi;Japan;21291;300;16891;4100
+Akita;Japan;208;1;157;50
+Aomori;Japan;643;8;529;106
+Chiba;Japan;17327;158;11126;6043
+Ehime;Japan;811;14;538;259
+Fukui;Japan;454;13;359;82
+Fukuoka;Japan;13425;129;8979;4317
+Fukushima;Japan;1469;32;1012;425
+Gifu;Japan;3507;52;2690;765
+Gunma;Japan;3290;56;2548;686
+Hiroshima;Japan;4397;63;3579;755
+Hokkaido;Japan;15807;514;13444;1849
+Hyogo;Japan;13850;298;11048;2504
+Ibaraki;Japan;3812;45;2790;977
+Ishikawa;Japan;1327;55;1084;188
+Iwate;Japan;467;25;365;77
+Kagawa;Japan;528;5;320;203
+Kagoshima;Japan;1371;16;1057;298
+Kanagawa;Japan;33235;334;25594;7307
+Kochi;Japan;770;13;700;57
+Kumamoto;Japan;2941;41;1982;918
+Kyoto;Japan;6877;81;5013;1783
+Mie;Japan;1782;21;1375;386
+Miyagi;Japan;2990;19;2326;645
+Miyazaki;Japan;1538;13;990;535
+Nagano;Japan;1988;19;1429;540
+Nagasaki;Japan;1246;14;692;540
+Nara;Japan;2563;31;2135;397
+Niigata;Japan;767;5;584;178
+Oita;Japan;926;12;752;162
+Okayama;Japan;2071;16;1434;621
+Okinawa;Japan;6415;89;5585;741
+Osaka;Japan;38096;691;30372;7033
+Port Quarantine;Japan;2079;1;1936;142
+Saga;Japan;775;6;524;245
+Saitama;Japan;20812;260;13765;6787
+Shiga;Japan;1747;19;1330;398
+Shimane;Japan;241;0;219;22
+Shizuoka;Japan;3897;58;2763;1076
+Tochigi;Japan;3163;20;1743;1400
+Tokushima;Japan;291;10;207;74
+Tokyo;Japan;85538;680;63279;21579
+Tottori;Japan;178;2;122;54
+Toyama;Japan;804;27;590;187
+Wakayama;Japan;865;11;715;139
+Yamagata;Japan;443;12;382;49
+Yamaguchi;Japan;837;5;620;212
+Yamanashi;Japan;848;11;650;187
+Jordan;Jordan;314514;4145;298868;11501
+Kazakhstan;Kazakhstan;215947;2889;188116;24942
+Kenya;Kenya;99162;1731;83350;14081
+Korea, South;Korea, South;72729;1264;58723;12742
+Kosovo;Kosovo;55851;1410;49271;5170
+Kuwait;Kuwait;157777;947;151142;5688
+Kyrgyzstan;Kyrgyzstan;83178;1387;79104;2687
+Laos;Laos;41;0;41;0
+Latvia;Latvia;55664;978;41817;12869
+Lebanon;Lebanon;252812;1906;153038;97868
+Lesotho;Lesotho;6371;93;1635;4643
+Liberia;Liberia;1887;84;1701;102
+Libya;Libya;109088;1665;86125;21298
+Liechtenstein;Liechtenstein;2389;49;2264;76
+Lithuania;Lithuania;167516;2445;104188;60883
+Luxembourg;Luxembourg;48630;549;45654;2427
+MS Zaandam;MS Zaandam;9;2;7;0
+Madagascar;Madagascar;18301;273;17609;419
+Malawi;Malawi;12470;314;6036;6120
+Malaysia;Malaysia;158434;601;120051;37782
+Maldives;Maldives;14513;49;13540;924
+Mali;Mali;7839;310;5562;1967
+Malta;Malta;15588;239;12596;2753
+Marshall Islands;Marshall Islands;4;0;4;0
+Mauritania;Mauritania;16039;402;14504;1133
+Mauritius;Mauritius;547;10;516;21
+Aguascalientes;Mexico;18501;1498;0;17003
+Baja California;Mexico;38697;6289;0;32408
+Baja California Sur;Mexico;20741;835;0;19906
+Campeche;Mexico;7552;989;0;6563
+Chiapas;Mexico;8766;1259;0;7507
+Chihuahua;Mexico;38326;4653;0;33673
+Ciudad de Mexico;Mexico;407254;19417;0;387837
+Coahuila;Mexico;55081;4696;0;50385
+Colima;Mexico;8591;839;0;7752
+Durango;Mexico;27087;1724;0;25363
+Guanajuato;Mexico;94939;6181;0;88758
+Guerrero;Mexico;28125;2864;0;25261
+Hidalgo;Mexico;28336;3985;0;24351
+Jalisco;Mexico;60269;7128;0;53141
+Mexico;Mexico;168194;21537;0;146657
+Michoacan;Mexico;36847;3096;0;33751
+Morelos;Mexico;14038;1618;0;12420
+Nayarit;Mexico;8810;1136;0;7674
+Nuevo Leon;Mexico;94365;5744;0;88621
+Oaxaca;Mexico;31506;2291;0;29215
+Puebla;Mexico;54133;6284;0;47849
+Queretaro;Mexico;38273;2363;0;35910
+Quintana Roo;Mexico;17037;2135;0;14902
+San Luis Potosi;Mexico;45147;3386;0;41761
+Sinaloa;Mexico;28798;4412;0;24386
+Sonora;Mexico;57524;4671;0;52853
+Tabasco;Mexico;49033;3342;0;45691
+Tamaulipas;Mexico;43716;3528;0;40188
+Tlaxcala;Mexico;13281;1609;0;11672
+Veracruz;Mexico;46814;6702;0;40112
+Yucatan;Mexico;28374;2551;0;25823
+Zacatecas;Mexico;23273;1942;0;21331
+Moldova;Moldova;152854;3250;143150;6454
+Monaco;Monaco;1205;7;995;203
+Mongolia;Mongolia;1526;2;967;557
+Montenegro;Montenegro;55493;745;45348;9400
+Morocco;Morocco;459671;7942;434925;16804
+Mozambique;Mozambique;26551;241;18607;7703
+Namibia;Namibia;30363;285;26931;3147
+Nepal;Nepal;267322;1959;261444;3919
+Aruba;Netherlands;6435;52;5923;460
+Bonaire, Sint Eustatius and Saba;Netherlands;196;3;180;13
+Curacao;Netherlands;4514;19;4286;209
+Drenthe;Netherlands;16843;210;0;16633
+Flevoland;Netherlands;22428;177;0;22251
+Friesland;Netherlands;18686;215;0;18471
+Gelderland;Netherlands;103953;1504;0;102449
+Groningen;Netherlands;19999;135;0;19864
+Limburg;Netherlands;57471;1205;0;56266
+Noord-Brabant;Netherlands;142253;2549;0;139704
+Noord-Holland;Netherlands;154047;1881;0;152166
+Overijssel;Netherlands;64636;868;0;63768
+Sint Maarten;Netherlands;1656;27;1501;128
+Utrecht;Netherlands;74715;979;0;73736
+Zeeland;Netherlands;12859;145;0;12714
+Zuid-Holland;Netherlands;223064;3128;0;219936
+New Zealand;New Zealand;2262;25;2152;85
+Nicaragua;Nicaragua;6152;167;4225;1760
+Niger;Niger;4156;140;3044;972
+Nigeria;Nigeria;110387;1435;89317;19635
+North Macedonia;North Macedonia;88938;2702;73601;12635
+Norway;Norway;58651;517;17998;40136
+Oman;Oman;131790;1512;124067;6211
+Azad Jammu and Kashmir;Pakistan;8631;241;8105;285
+Balochistan;Pakistan;18612;190;18100;322
+Gilgit-Baltistan;Pakistan;4884;101;4756;27
+Islamabad;Pakistan;40111;457;37914;1740
+Khyber Pakhtunkhwa;Pakistan;63615;1783;58240;3592
+Punjab;Pakistan;149782;4432;134489;10861
+Sindh;Pakistan;235576;3793;213624;18159
+Panama;Panama;298019;4787;238999;54233
+Papua New Guinea;Papua New Guinea;834;9;755;70
+Paraguay;Paraguay;122160;2505;97588;22067
+Amazonas;Peru;18918;258;0;18660
+Ancash;Peru;33668;1577;0;32091
+Apurimac;Peru;8648;176;0;8472
+Arequipa;Peru;50258;1680;0;48578
+Ayacucho;Peru;15963;388;0;15575
+Cajamarca;Peru;26503;636;0;25867
+Callao;Peru;45137;2024;0;43113
+Cusco;Peru;26355;563;0;25792
+Huancavelica;Peru;8046;156;0;7890
+Huanuco;Peru;21745;546;0;21199
+Ica;Peru;33331;1838;0;31493
+Junin;Peru;30725;1022;0;29703
+La Libertad;Peru;38662;2540;0;36122
+Lambayeque;Peru;34317;1978;0;32339
+Lima;Peru;471155;17152;0;454003
+Loreto;Peru;26677;1020;0;25657
+Madre de Dios;Peru;9639;162;0;9477
+Moquegua;Peru;16885;347;0;16538
+Pasco;Peru;7081;155;0;6926
+Piura;Peru;44590;2258;0;42332
+Puno;Peru;19806;426;0;19380
+San Martin;Peru;26433;809;0;25624
+Tacna;Peru;15431;297;0;15134
+Tumbes;Peru;9781;360;0;9421
+Ucayali;Peru;20813;402;0;20411
+Philippines;Philippines;500577;9895;465991;24691
+Poland;Poland;1435582;33355;1181326;220901
+Portugal;Portugal;549801;8861;406929;134011
+Qatar;Qatar;147277;246;143858;3173
+Romania;Romania;693644;17221;622414;54009
+Adygea Republic;Russia;12278;106;10274;1898
+Altai Krai;Russia;36347;1045;33362;1940
+Altai Republic;Russia;14750;116;13638;996
+Amur Oblast;Russia;17972;112;16056;1804
+Arkhangelsk Oblast;Russia;47721;455;39299;7967
+Astrakhan Oblast;Russia;21955;459;14037;7459
+Bashkortostan Republic;Russia;21902;165;16522;5215
+Belgorod Oblast;Russia;24952;298;22427;2227
+Bryansk Oblast;Russia;26465;220;24372;1873
+Buryatia Republic;Russia;28316;634;25780;1902
+Chechen Republic;Russia;10175;101;7481;2593
+Chelyabinsk Oblast;Russia;39748;650;26805;12293
+Chukotka Autonomous Okrug;Russia;581;4;518;59
+Chuvashia Republic;Russia;18067;712;16243;1112
+Dagestan Republic;Russia;26156;1185;22831;2140
+Ingushetia Republic;Russia;13300;153;11473;1674
+Irkutsk Oblast;Russia;45004;1422;39768;3814
+Ivanovo Oblast;Russia;24334;651;19517;4166
+Jewish Autonomous Okrug;Russia;3980;90;3494;396
+Kabardino-Balkarian Republic;Russia;17495;296;16084;1115
+Kaliningrad Oblast;Russia;21298;210;19388;1700
+Kalmykia Republic;Russia;16330;225;13621;2484
+Kaluga Oblast;Russia;23803;209;21740;1854
+Kamchatka Krai;Russia;11360;82;9971;1307
+Karachay-Cherkess Republic;Russia;16536;45;14916;1575
+Karelia Republic;Russia;32276;199;26737;5340
+Kemerovo Oblast;Russia;27817;499;25081;2237
+Khabarovsk Krai;Russia;40396;219;36196;3981
+Khakassia Republic;Russia;19277;332;17164;1781
+Khanty-Mansi Autonomous Okrug;Russia;44806;612;41134;3060
+Kirov Oblast;Russia;29561;251;23393;5917
+Komi Republic;Russia;34165;647;32613;905
+Kostroma Oblast;Russia;16265;260;12726;3279
+Krasnodar Krai;Russia;30967;1200;21368;8399
+Krasnoyarsk Krai;Russia;51951;1985;47700;2266
+Kurgan Oblast;Russia;13820;202;12099;1519
+Kursk Oblast;Russia;23768;329;20969;2470
+Leningrad Oblast;Russia;27584;322;24796;2466
+Lipetsk Oblast;Russia;18800;327;14227;4246
+Magadan Oblast;Russia;7520;73;7062;385
+Mari El Republic;Russia;10028;138;8704;1186
+Mordovia Republic;Russia;14930;114;12408;2408
+Moscow;Russia;891648;12468;739340;139840
+Moscow Oblast;Russia;177452;3276;136490;37686
+Murmansk Oblast;Russia;40236;735;35978;3523
+Nenets Autonomous Okrug;Russia;843;0;734;109
+Nizhny Novgorod Oblast;Russia;77739;1909;69998;5832
+North Ossetia - Alania Republic;Russia;13425;105;11944;1376
+Novgorod Oblast;Russia;21647;105;16294;5248
+Novosibirsk Oblast;Russia;30323;1105;27161;2057
+Omsk Oblast;Russia;34355;1000;31098;2257
+Orel Oblast;Russia;24345;307;21575;2463
+Orenburg Oblast;Russia;31696;411;28028;3257
+Penza Oblast;Russia;29542;353;23538;5651
+Perm Krai;Russia;35700;1302;29214;5184
+Primorsky Krai;Russia;33251;451;24697;8103
+Pskov Oblast;Russia;27212;111;14944;12157
+Rostov Oblast;Russia;58315;2334;48296;7685
+Ryazan Oblast;Russia;20341;209;18521;1611
+Saint Petersburg;Russia;297477;8847;187135;101495
+Sakha (Yakutiya) Republic;Russia;28723;422;25825;2476
+Sakhalin Oblast;Russia;18083;20;15115;2948
+Samara Oblast;Russia;36298;742;33452;2104
+Saratov Oblast;Russia;39701;474;34119;5108
+Smolensk Oblast;Russia;19782;380;15682;3720
+Stavropol Krai;Russia;39186;848;35187;3151
+Sverdlovsk Oblast;Russia;65202;1804;57635;5763
+Tambov Oblast;Russia;20362;229;18437;1696
+Tatarstan Republic;Russia;14832;229;11263;3340
+Tomsk Oblast;Russia;26734;241;23669;2824
+Tula Oblast;Russia;26305;905;23380;2020
+Tver Oblast;Russia;26134;487;21543;4104
+Tyumen Oblast;Russia;26066;229;24486;1351
+Tyva Republic;Russia;15138;183;13943;1012
+Udmurt Republic;Russia;23071;443;19398;3230
+Ulyanovsk Oblast;Russia;40598;515;37362;2721
+Vladimir Oblast;Russia;21352;582;18721;2049
+Volgograd Oblast;Russia;39871;540;37950;1381
+Vologda Oblast;Russia;28688;532;24007;4149
+Voronezh Oblast;Russia;52840;1365;47561;3914
+Yamalo-Nenets Autonomous Okrug;Russia;34403;363;28671;5369
+Yaroslavl Oblast;Russia;25510;256;23945;1309
+Zabaykalsky Krai;Russia;31197;430;28925;1842
+Rwanda;Rwanda;11032;142;7363;3527
+Saint Kitts and Nevis;Saint Kitts and Nevis;34;0;32;2
+Saint Lucia;Saint Lucia;611;8;329;274
+Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;478;1;111;366
+Samoa;Samoa;2;0;2;0
+San Marino;San Marino;2778;65;2455;258
+Sao Tome and Principe;Sao Tome and Principe;1142;17;993;132
+Saudi Arabia;Saudi Arabia;364929;6323;356687;1919
+Senegal;Senegal;23028;515;19224;3289
+Serbia;Serbia;372533;3750;0;368783
+Seychelles;Seychelles;705;2;539;164
+Sierra Leone;Sierra Leone;3006;77;2082;847
+Singapore;Singapore;59113;29;58846;238
+Slovakia;Slovakia;223325;3474;168915;50936
+Slovenia;Slovenia;149125;3180;122008;23937
+Solomon Islands;Solomon Islands;17;0;10;7
+Somalia;Somalia;4744;130;3666;948
+South Africa;South Africa;1337926;37105;1098441;202380
+South Sudan;South Sudan;3693;63;3181;449
+Andalusia;Spain;306961;5470;10671;290820
+Aragon;Spain;87008;2745;3772;80491
+Asturias;Spain;29913;1396;1063;27454
+Baleares;Spain;43947;508;1533;41906
+C. Valenciana;Spain;197372;3510;9970;183892
+Canarias;Spain;30972;466;1537;28969
+Cantabria;Spain;19945;412;2287;17246
+Castilla - La Mancha;Spain;119183;4167;6392;108624
+Castilla y Leon;Spain;150012;5345;8716;135951
+Catalonia;Spain;426130;8984;26203;390943
+Ceuta;Spain;3424;62;163;3199
+Extremadura;Spain;51108;1189;2652;47267
+Galicia;Spain;72332;1484;9204;61644
+La Rioja;Spain;20934;605;3107;17222
+Madrid;Spain;449237;12040;40736;396461
+Melilla;Spain;5053;48;125;4880
+Murcia;Spain;74623;805;2180;71638
+Navarra;Spain;44849;984;3905;39960
+Pais Vasco;Spain;119161;3094;16160;99907
+Sri Lanka;Sri Lanka;53062;264;45171;7627
+Sudan;Sudan;26279;1603;15688;8988
+Suriname;Suriname;7527;141;6758;628
+Blekinge;Sweden;6577;66;0;6511
+Dalarna;Sweden;12357;278;0;12079
+Gavleborg;Sweden;17268;436;0;16832
+Gotland;Sweden;2503;37;0;2466
+Halland;Sweden;16477;172;0;16305
+Jamtland Harjedalen;Sweden;5327;99;0;5228
+Jonkoping;Sweden;20194;398;0;19796
+Kalmar;Sweden;8651;154;0;8497
+Kronoberg;Sweden;10784;237;0;10547
+Norrbotten;Sweden;9010;155;0;8855
+Orebro;Sweden;15142;239;0;14903
+Ostergotland;Sweden;17354;430;0;16924
+Skane;Sweden;87617;986;0;86631
+Sormland;Sweden;10771;353;0;10418
+Stockholm;Sweden;130531;3472;0;127059
+Uppsala;Sweden;20218;417;0;19801
+Varmland;Sweden;7094;140;0;6954
+Vasterbotten;Sweden;9522;101;0;9421
+Vasternorrland;Sweden;11952;298;0;11654
+Vastmanland;Sweden;15728;285;0;15443
+Vastra Gotaland;Sweden;88409;1570;0;86839
+Switzerland;Switzerland;495228;8682;317600;168946
+Syria;Syria;13036;832;6548;5656
+Taiwan;Taiwan;855;7;755;93
+Tajikistan;Tajikistan;13308;90;13218;0
+Tanzania;Tanzania;509;21;183;305
+Thailand;Thailand;12423;70;9206;3147
+Timor-Leste;Timor-Leste;52;0;49;3
+Togo;Togo;4302;73;3775;454
+Trinidad and Tobago;Trinidad and Tobago;7393;132;6930;331
+Tunisia;Tunisia;180090;5692;128992;45406
+Turkey;Turkey;2387101;23997;2262864;100240
+Alabama;US;5184;55;0;5129
+Alabama;US;16251;182;0;16069
+Alabama;US;1729;36;0;1693
+Alabama;US;2151;47;0;2104
+Alabama;US;5304;83;0;5221
+Alabama;US;990;28;0;962
+Alabama;US;1696;58;0;1638
+Alabama;US;11122;200;0;10922
+Alabama;US;2827;69;0;2758
+Alabama;US;1603;30;0;1573
+Alabama;US;3361;65;0;3296
+Alabama;US;512;24;0;488
+Alabama;US;2814;33;0;2781
+Alabama;US;1261;45;0;1216
+Alabama;US;1174;23;0;1151
+Alabama;US;4410;56;0;4354
+Alabama;US;5320;73;0;5247
+Alabama;US;944;20;0;924
+Alabama;US;605;15;0;590
+Alabama;US;3272;68;0;3204
+Alabama;US;1187;44;0;1143
+Alabama;US;8023;105;0;7918
+Alabama;US;3961;81;0;3880
+Alabama;US;3031;96;0;2935
+Alabama;US;7683;97;0;7586
+Alabama;US;7836;101;0;7735
+Alabama;US;3168;42;0;3126
+Alabama;US;11735;168;0;11567
+Alabama;US;1682;26;0;1656
+Alabama;US;3662;48;0;3614
+Alabama;US;2014;35;0;1979
+Alabama;US;760;23;0;737
+Alabama;US;1758;42;0;1716
+Alabama;US;1536;21;0;1515
+Alabama;US;8598;148;0;8450
+Alabama;US;5803;41;0;5762
+Alabama;US;62039;921;0;61118
+Alabama;US;1180;19;0;1161
+Alabama;US;7546;83;0;7463
+Alabama;US;2436;47;0;2389
+Alabama;US;12465;101;0;12364
+Alabama;US;8002;74;0;7928
+Alabama;US;1103;35;0;1068
+Alabama;US;1147;35;0;1112
+Alabama;US;27052;186;0;26866
+Alabama;US;1990;29;0;1961
+Alabama;US;2456;50;0;2406
+Alabama;US;10191;107;0;10084
+Alabama;US;30225;548;0;29677
+Alabama;US;1452;17;0;1435
+Alabama;US;18978;305;0;18673
+Alabama;US;12233;113;0;12120
+Alabama;US;0;0;0;0
+Alabama;US;974;19;0;955
+Alabama;US;1965;31;0;1934
+Alabama;US;2487;29;0;2458
+Alabama;US;1398;35;0;1363
+Alabama;US;3303;10;0;3293
+Alabama;US;18504;114;0;18390
+Alabama;US;7535;120;0;7415
+Alabama;US;890;26;0;864
+Alabama;US;6166;108;0;6058
+Alabama;US;2616;107;0;2509
+Alabama;US;20728;267;0;20461
+Alabama;US;0;0;0;0
+Alabama;US;5897;174;0;5723
+Alabama;US;1376;26;0;1350
+Alabama;US;1031;21;0;1010
+Alabama;US;2266;35;0;2231
+Alaska;US;40;0;0;40
+Alaska;US;269;0;0;269
+Alaska;US;24656;129;0;24527
+Alaska;US;2985;12;0;2973
+Alaska;US;0;0;0;0
+Alaska;US;167;0;0;167
+Alaska;US;63;0;0;63
+Alaska;US;154;1;0;153
+Alaska;US;5633;23;0;5610
+Alaska;US;24;0;0;24
+Alaska;US;1102;5;0;1097
+Alaska;US;3832;19;0;3813
+Alaska;US;269;1;0;268
+Alaska;US;1002;2;0;1000
+Alaska;US;995;3;0;992
+Alaska;US;7157;18;0;7139
+Alaska;US;296;0;0;296
+Alaska;US;965;3;0;962
+Alaska;US;520;0;0;520
+Alaska;US;46;1;0;45
+Alaska;US;75;1;0;74
+Alaska;US;294;0;0;294
+Alaska;US;16;0;0;16
+Alaska;US;412;3;0;409
+Alaska;US;225;0;0;225
+Alaska;US;401;3;0;398
+Alaska;US;25;0;0;25
+Alaska;US;62;1;0;61
+Alaska;US;253;4;0;249
+Arizona;US;8634;278;0;8356
+Arizona;US;9589;191;0;9398
+Arizona;US;13943;245;0;13698
+Arizona;US;5389;167;0;5222
+Arizona;US;4361;58;0;4303
+Arizona;US;483;4;0;479
+Arizona;US;2029;46;0;1983
+Arizona;US;417839;6444;0;411395
+Arizona;US;16734;439;0;16295
+Arizona;US;13343;392;0;12951
+Arizona;US;0;0;0;0
+Arizona;US;90084;1422;0;88662
+Arizona;US;36735;490;0;36245
+Arizona;US;7039;132;0;6907
+Arizona;US;0;0;0;0
+Arizona;US;14748;325;0;14423
+Arizona;US;32932;633;0;32299
+Arkansas;US;1564;35;0;1529
+Arkansas;US;1487;24;0;1463
+Arkansas;US;2466;85;0;2381
+Arkansas;US;23013;308;0;22705
+Arkansas;US;2996;72;0;2924
+Arkansas;US;1161;24;0;1137
+Arkansas;US;293;2;0;291
+Arkansas;US;2406;34;0;2372
+Arkansas;US;1503;35;0;1468
+Arkansas;US;1649;30;0;1619
+Arkansas;US;1477;39;0;1438
+Arkansas;US;1613;45;0;1568
+Arkansas;US;682;23;0;659
+Arkansas;US;1791;47;0;1744
+Arkansas;US;1782;21;0;1761
+Arkansas;US;11529;151;0;11378
+Arkansas;US;5571;74;0;5497
+Arkansas;US;5055;79;0;4976
+Arkansas;US;1703;39;0;1664
+Arkansas;US;611;12;0;599
+Arkansas;US;1088;14;0;1074
+Arkansas;US;1708;26;0;1682
+Arkansas;US;9599;118;0;9481
+Arkansas;US;1338;28;0;1310
+Arkansas;US;998;38;0;960
+Arkansas;US;7492;185;0;7307
+Arkansas;US;1273;23;0;1250
+Arkansas;US;5104;59;0;5045
+Arkansas;US;1463;11;0;1452
+Arkansas;US;4094;61;0;4033
+Arkansas;US;1248;19;0;1229
+Arkansas;US;3251;106;0;3145
+Arkansas;US;1474;26;0;1448
+Arkansas;US;2985;29;0;2956
+Arkansas;US;7440;139;0;7301
+Arkansas;US;2287;26;0;2261
+Arkansas;US;395;7;0;388
+Arkansas;US;1806;40;0;1766
+Arkansas;US;1560;29;0;1531
+Arkansas;US;2950;29;0;2921
+Arkansas;US;956;39;0;917
+Arkansas;US;1785;13;0;1772
+Arkansas;US;5268;96;0;5172
+Arkansas;US;1202;15;0;1187
+Arkansas;US;792;27;0;765
+Arkansas;US;3135;26;0;3109
+Arkansas;US;4893;101;0;4792
+Arkansas;US;610;11;0;599
+Arkansas;US;619;22;0;597
+Arkansas;US;646;22;0;624
+Arkansas;US;608;26;0;582
+Arkansas;US;1741;39;0;1702
+Arkansas;US;615;6;0;609
+Arkansas;US;1485;29;0;1456
+Arkansas;US;837;15;0;822
+Arkansas;US;2733;70;0;2663
+Arkansas;US;1540;51;0;1489
+Arkansas;US;6634;71;0;6563
+Arkansas;US;671;17;0;654
+Arkansas;US;30299;451;0;29848
+Arkansas;US;1731;44;0;1687
+Arkansas;US;9440;128;0;9312
+Arkansas;US;783;14;0;769
+Arkansas;US;571;14;0;557
+Arkansas;US;12322;181;0;12141
+Arkansas;US;2261;23;0;2238
+Arkansas;US;1379;38;0;1341
+Arkansas;US;3154;27;0;3127
+Arkansas;US;870;27;0;843
+Arkansas;US;2792;0;0;2792
+Arkansas;US;2977;82;0;2895
+Arkansas;US;971;10;0;961
+Arkansas;US;25675;247;0;25428
+Arkansas;US;5917;76;0;5841
+Arkansas;US;489;5;0;484
+Arkansas;US;2848;56;0;2792
+California;US;66583;757;0;65826
+California;US;73;0;0;73
+California;US;2986;29;0;2957
+California;US;9359;121;0;9238
+California;US;1596;23;0;1573
+California;US;1691;9;0;1682
+California;US;51573;446;0;51127
+California;US;853;2;0;851
+California;US;7575;44;0;7531
+California;US;81294;932;0;80362
+California;US;1894;19;0;1875
+California;US;2294;24;0;2270
+California;US;25140;463;0;24677
+California;US;924;29;0;895
+California;US;84644;565;0;84079
+California;US;19125;133;0;18992
+California;US;2504;28;0;2476
+California;US;5094;13;0;5081
+California;US;1014662;13848;0;1000814
+California;US;13193;130;0;13063
+California;US;11482;153;0;11329
+California;US;344;4;0;340
+California;US;3076;31;0;3045
+California;US;23492;296;0;23196
+California;US;379;3;0;376
+California;US;1083;4;0;1079
+California;US;35418;250;0;35168
+California;US;7356;39;0;7317
+California;US;3144;73;0;3071
+California;US;210813;2367;0;208446
+California;US;16995;173;0;16822
+California;US;573;5;0;568
+California;US;239412;2517;0;236895
+California;US;79122;1080;0;78042
+California;US;4882;43;0;4839
+California;US;251213;1560;0;249653
+California;US;211787;2103;0;209684
+California;US;28853;254;0;28599
+California;US;56642;748;0;55894
+California;US;15466;128;0;15338
+California;US;31805;294;0;31511
+California;US;24149;231;0;23918
+California;US;92625;1065;0;91560
+California;US;12026;113;0;11913
+California;US;9594;117;0;9477
+California;US;70;0;0;70
+California;US;1408;13;0;1395
+California;US;24732;105;0;24627
+California;US;23607;234;0;23373
+California;US;42337;739;0;41598
+California;US;7560;77;0;7483
+California;US;3971;42;0;3929
+California;US;302;4;0;298
+California;US;40655;501;0;40154
+California;US;3304;38;0;3266
+California;US;0;0;0;0
+California;US;60368;412;0;59956
+California;US;10406;131;0;10275
+California;US;4818;27;0;4791
+Colorado;US;43876;558;0;43318
+Colorado;US;1070;27;0;1043
+Colorado;US;42631;603;0;42028
+Colorado;US;568;0;0;568
+Colorado;US;242;2;0;240
+Colorado;US;1266;18;0;1248
+Colorado;US;16276;193;0;16083
+Colorado;US;3164;68;0;3096
+Colorado;US;1217;23;0;1194
+Colorado;US;106;5;0;101
+Colorado;US;333;2;0;331
+Colorado;US;370;3;0;367
+Colorado;US;172;2;0;170
+Colorado;US;1742;14;0;1728
+Colorado;US;156;1;0;155
+Colorado;US;2107;39;0;2068
+Colorado;US;53319;716;0;52603
+Colorado;US;55;0;0;55
+Colorado;US;17795;217;0;17578
+Colorado;US;3976;17;0;3959
+Colorado;US;45737;670;0;45067
+Colorado;US;1085;12;0;1073
+Colorado;US;4991;34;0;4957
+Colorado;US;4509;35;0;4474
+Colorado;US;137;2;0;135
+Colorado;US;795;4;0;791
+Colorado;US;873;6;0;867
+Colorado;US;15;0;0;15
+Colorado;US;287;18;0;269
+Colorado;US;44;0;0;44
+Colorado;US;32832;660;0;32172
+Colorado;US;82;2;0;80
+Colorado;US;475;10;0;465
+Colorado;US;2594;30;0;2564
+Colorado;US;476;0;0;476
+Colorado;US;16902;176;0;16726
+Colorado;US;870;9;0;861
+Colorado;US;832;3;0;829
+Colorado;US;3491;56;0;3435
+Colorado;US;10806;158;0;10648
+Colorado;US;53;1;0;52
+Colorado;US;587;21;0;566
+Colorado;US;1500;19;0;1481
+Colorado;US;2702;41;0;2661
+Colorado;US;2302;86;0;2216
+Colorado;US;1756;57;0;1699
+Colorado;US;179;3;0;176
+Colorado;US;0;0;0;0
+Colorado;US;456;5;0;451
+Colorado;US;312;10;0;302
+Colorado;US;1673;4;0;1669
+Colorado;US;1080;20;0;1060
+Colorado;US;14009;340;0;13669
+Colorado;US;329;3;0;326
+Colorado;US;552;10;0;542
+Colorado;US;1331;19;0;1312
+Colorado;US;285;4;0;281
+Colorado;US;34;0;0;34
+Colorado;US;466;0;0;466
+Colorado;US;177;2;0;175
+Colorado;US;2400;5;0;2395
+Colorado;US;1106;12;0;1094
+Colorado;US;32;0;0;32
+Colorado;US;359;11;0;348
+Colorado;US;22408;299;0;22109
+Colorado;US;619;14;0;605
+Connecticut;US;65725;1830;0;63895
+Connecticut;US;56292;1992;0;54300
+Connecticut;US;8879;245;0;8634
+Connecticut;US;8110;292;0;7818
+Connecticut;US;56512;1694;0;54818
+Connecticut;US;14167;311;0;13856
+Connecticut;US;5967;124;0;5843
+Connecticut;US;819;4;0;815
+Connecticut;US;6951;102;0;6849
+Delaware;US;11363;187;0;11176
+Delaware;US;40199;509;0;39690
+Delaware;US;18570;320;0;18250
+Delaware;US;162;0;0;162
+Diamond Princess;US;49;0;0;49
+District of Columbia;US;33851;850;0;33001
+Florida;US;18777;146;0;18631
+Florida;US;2826;41;0;2785
+Florida;US;14036;255;0;13781
+Florida;US;2498;26;0;2472
+Florida;US;26081;582;0;25499
+Florida;US;158762;1969;0;156793
+Florida;US;1439;32;0;1407
+Florida;US;8965;263;0;8702
+Florida;US;7905;308;0;7597
+Florida;US;14000;221;0;13779
+Florida;US;25782;376;0;25406
+Florida;US;6834;131;0;6703
+Florida;US;3210;67;0;3143
+Florida;US;1316;12;0;1304
+Florida;US;74910;806;0;74104
+Florida;US;27455;448;0;27007
+Florida;US;4710;53;0;4657
+Florida;US;1120;4;0;1116
+Florida;US;4773;64;0;4709
+Florida;US;1130;28;0;1102
+Florida;US;837;12;0;825
+Florida;US;1549;31;0;1518
+Florida;US;1416;15;0;1401
+Florida;US;2403;22;0;2381
+Florida;US;3813;53;0;3760
+Florida;US;8963;312;0;8651
+Florida;US;5864;232;0;5632
+Florida;US;92438;1175;0;91263
+Florida;US;1967;32;0;1935
+Florida;US;8768;194;0;8574
+Florida;US;5328;122;0;5206
+Florida;US;1191;18;0;1173
+Florida;US;1495;23;0;1472
+Florida;US;19387;377;0;19010
+Florida;US;48145;728;0;47417
+Florida;US;23629;202;0;23427
+Florida;US;2329;22;0;2307
+Florida;US;931;14;0;917
+Florida;US;1708;34;0;1674
+Florida;US;26102;457;0;25645
+Florida;US;22141;541;0;21600
+Florida;US;9006;228;0;8778
+Florida;US;344246;4595;0;339651
+Florida;US;4941;37;0;4904
+Florida;US;6243;73;0;6170
+Florida;US;15166;263;0;14903
+Florida;US;2990;56;0;2934
+Florida;US;93180;846;0;92334
+Florida;US;30579;330;0;30249
+Florida;US;97542;2036;0;95506
+Florida;US;26798;453;0;26345
+Florida;US;54212;1175;0;53037
+Florida;US;45550;891;0;44659
+Florida;US;5033;89;0;4944
+Florida;US;13803;177;0;13626
+Florida;US;22609;563;0;22046
+Florida;US;21923;335;0;21588
+Florida;US;16555;138;0;16417
+Florida;US;17617;454;0;17163
+Florida;US;6422;157;0;6265
+Florida;US;4593;100;0;4493
+Florida;US;2274;30;0;2244
+Florida;US;3293;0;0;3293
+Florida;US;1610;69;0;1541
+Florida;US;27386;473;0;26913
+Florida;US;2670;32;0;2638
+Florida;US;5842;59;0;5783
+Florida;US;2263;30;0;2233
+Georgia;US;1892;46;0;1846
+Georgia;US;886;11;0;875
+Georgia;US;1220;26;0;1194
+Georgia;US;191;6;0;185
+Georgia;US;3675;79;0;3596
+Georgia;US;1451;23;0;1428
+Georgia;US;6892;78;0;6814
+Georgia;US;9938;145;0;9793
+Georgia;US;1810;54;0;1756
+Georgia;US;1379;33;0;1346
+Georgia;US;12124;281;0;11843
+Georgia;US;1221;40;0;1181
+Georgia;US;1198;24;0;1174
+Georgia;US;1103;33;0;1070
+Georgia;US;2377;22;0;2355
+Georgia;US;5141;66;0;5075
+Georgia;US;1925;27;0;1898
+Georgia;US;2121;53;0;2068
+Georgia;US;476;12;0;464
+Georgia;US;2944;24;0;2920
+Georgia;US;816;37;0;779
+Georgia;US;8725;142;0;8583
+Georgia;US;4289;47;0;4242
+Georgia;US;1168;21;0;1147
+Georgia;US;16123;274;0;15849
+Georgia;US;2288;3;0;2285
+Georgia;US;2186;49;0;2137
+Georgia;US;21359;165;0;21194
+Georgia;US;11904;79;0;11825
+Georgia;US;205;3;0;202
+Georgia;US;17475;260;0;17215
+Georgia;US;771;16;0;755
+Georgia;US;55659;644;0;55015
+Georgia;US;4683;110;0;4573
+Georgia;US;3680;56;0;3624
+Georgia;US;12685;119;0;12566
+Georgia;US;1480;31;0;1449
+Georgia;US;10119;98;0;10021
+Georgia;US;510;10;0;500
+Georgia;US;1605;46;0;1559
+Georgia;US;991;9;0;982
+Georgia;US;2245;20;0;2225
+Georgia;US;46206;573;0;45633
+Georgia;US;2320;55;0;2265
+Georgia;US;1809;75;0;1734
+Georgia;US;806;28;0;778
+Georgia;US;5895;233;0;5662
+Georgia;US;10330;124;0;10206
+Georgia;US;935;43;0;892
+Georgia;US;404;4;0;400
+Georgia;US;3155;38;0;3117
+Georgia;US;1911;36;0;1875
+Georgia;US;2163;61;0;2102
+Georgia;US;774;15;0;759
+Georgia;US;1716;46;0;1670
+Georgia;US;5964;91;0;5873
+Georgia;US;9013;141;0;8872
+Georgia;US;14283;92;0;14191
+Georgia;US;2141;30;0;2111
+Georgia;US;69381;867;0;68514
+Georgia;US;2227;41;0;2186
+Georgia;US;209;8;0;201
+Georgia;US;6094;140;0;5954
+Georgia;US;5712;77;0;5635
+Georgia;US;1705;41;0;1664
+Georgia;US;1393;30;0;1363
+Georgia;US;72209;656;0;71553
+Georgia;US;4251;108;0;4143
+Georgia;US;21751;276;0;21475
+Georgia;US;775;50;0;725
+Georgia;US;2115;48;0;2067
+Georgia;US;1864;34;0;1830
+Georgia;US;1889;37;0;1852
+Georgia;US;669;13;0;656
+Georgia;US;16750;178;0;16572
+Georgia;US;10660;152;0;10508
+Georgia;US;794;21;0;773
+Georgia;US;7194;88;0;7106
+Georgia;US;1061;16;0;1045
+Georgia;US;1448;37;0;1411
+Georgia;US;1566;44;0;1522
+Georgia;US;685;34;0;651
+Georgia;US;939;34;0;905
+Georgia;US;1482;25;0;1457
+Georgia;US;1528;38;0;1490
+Georgia;US;620;10;0;610
+Georgia;US;4596;126;0;4470
+Georgia;US;2045;37;0;2008
+Georgia;US;2302;34;0;2268
+Georgia;US;569;16;0;553
+Georgia;US;601;8;0;593
+Georgia;US;9882;146;0;9736
+Georgia;US;2382;32;0;2350
+Georgia;US;604;16;0;588
+Georgia;US;2430;29;0;2401
+Georgia;US;409;10;0;399
+Georgia;US;1813;28;0;1785
+Georgia;US;582;10;0;572
+Georgia;US;1422;23;0;1399
+Georgia;US;653;4;0;649
+Georgia;US;1658;63;0;1595
+Georgia;US;1925;74;0;1851
+Georgia;US;759;14;0;745
+Georgia;US;1412;10;0;1402
+Georgia;US;3661;46;0;3615
+Georgia;US;11868;227;0;11641
+Georgia;US;7321;144;0;7177
+Georgia;US;2975;44;0;2931
+Georgia;US;1149;16;0;1133
+Georgia;US;27933;390;0;27543
+Georgia;US;11038;137;0;10901
+Georgia;US;1928;34;0;1894
+Georgia;US;2414;26;0;2388
+Georgia;US;1983;37;0;1946
+Georgia;US;1622;25;0;1597
+Georgia;US;4303;54;0;4249
+Georgia;US;727;32;0;695
+Georgia;US;1622;34;0;1588
+Georgia;US;123;1;0;122
+Georgia;US;1372;28;0;1344
+Georgia;US;488;31;0;457
+Georgia;US;18344;292;0;18052
+Georgia;US;5077;93;0;4984
+Georgia;US;261;2;0;259
+Georgia;US;707;15;0;692
+Georgia;US;791;13;0;778
+Georgia;US;4500;113;0;4387
+Georgia;US;2545;62;0;2483
+Georgia;US;712;17;0;695
+Georgia;US;2050;77;0;1973
+Georgia;US;376;11;0;365
+Georgia;US;93;0;0;93
+Georgia;US;1787;39;0;1748
+Georgia;US;634;17;0;617
+Georgia;US;1014;39;0;975
+Georgia;US;648;36;0;612
+Georgia;US;3538;92;0;3446
+Georgia;US;4170;89;0;4081
+Georgia;US;2808;77;0;2731
+Georgia;US;925;37;0;888
+Georgia;US;667;16;0;651
+Georgia;US;5935;144;0;5791
+Georgia;US;825;26;0;799
+Georgia;US;534;24;0;510
+Georgia;US;4219;14;0;4205
+Georgia;US;1722;48;0;1674
+Georgia;US;2778;88;0;2690
+Georgia;US;5099;62;0;5037
+Georgia;US;7361;108;0;7253
+Georgia;US;3924;96;0;3828
+Georgia;US;398;9;0;389
+Georgia;US;1667;47;0;1620
+Georgia;US;2660;52;0;2608
+Georgia;US;110;2;0;108
+Georgia;US;548;20;0;528
+Georgia;US;2597;51;0;2546
+Georgia;US;13972;156;0;13816
+Georgia;US;684;39;0;645
+Georgia;US;794;12;0;782
+Georgia;US;764;20;0;744
+Georgia;US;1460;45;0;1415
+Grand Princess;US;103;3;0;100
+Guam;US;7474;125;0;7349
+Hawaii;US;2098;45;0;2053
+Hawaii;US;20055;253;0;19802
+Hawaii;US;174;1;0;173
+Hawaii;US;1982;20;0;1962
+Hawaii;US;286;2;0;284
+Hawaii;US;0;0;0;0
+Idaho;US;42506;387;0;42119
+Idaho;US;303;3;0;300
+Idaho;US;7058;78;0;6980
+Idaho;US;312;2;0;310
+Idaho;US;510;6;0;504
+Idaho;US;3931;55;0;3876
+Idaho;US;1725;14;0;1711
+Idaho;US;271;2;0;269
+Idaho;US;2390;22;0;2368
+Idaho;US;11110;124;0;10986
+Idaho;US;680;10;0;670
+Idaho;US;180;1;0;179
+Idaho;US;57;0;0;57
+Idaho;US;22749;239;0;22510
+Idaho;US;586;10;0;576
+Idaho;US;2700;22;0;2678
+Idaho;US;53;0;0;53
+Idaho;US;921;10;0;911
+Idaho;US;223;2;0;221
+Idaho;US;1458;10;0;1448
+Idaho;US;982;12;0;970
+Idaho;US;919;14;0;905
+Idaho;US;1557;25;0;1532
+Idaho;US;1207;22;0;1185
+Idaho;US;1112;16;0;1096
+Idaho;US;2196;15;0;2181
+Idaho;US;2360;17;0;2343
+Idaho;US;14754;140;0;14614
+Idaho;US;2382;6;0;2376
+Idaho;US;473;9;0;464
+Idaho;US;361;6;0;355
+Idaho;US;459;9;0;450
+Idaho;US;5658;21;0;5637
+Idaho;US;2176;25;0;2151
+Idaho;US;3190;45;0;3145
+Idaho;US;282;3;0;279
+Idaho;US;951;23;0;928
+Idaho;US;2231;25;0;2206
+Idaho;US;567;6;0;561
+Idaho;US;920;30;0;890
+Idaho;US;879;4;0;875
+Idaho;US;8510;116;0;8394
+Idaho;US;0;0;0;0
+Idaho;US;622;4;0;618
+Idaho;US;1083;17;0;1066
+Illinois;US;7304;117;0;7187
+Illinois;US;388;7;0;381
+Illinois;US;1731;24;0;1707
+Illinois;US;5523;77;0;5446
+Illinois;US;607;11;0;596
+Illinois;US;2996;84;0;2912
+Illinois;US;437;4;0;433
+Illinois;US;1423;33;0;1390
+Illinois;US;1747;31;0;1716
+Illinois;US;15349;96;0;15253
+Illinois;US;2974;73;0;2901
+Illinois;US;1465;29;0;1436
+Illinois;US;1309;39;0;1270
+Illinois;US;4989;85;0;4904
+Illinois;US;4690;80;0;4610
+Illinois;US;433089;9005;0;424084
+Illinois;US;1753;34;0;1719
+Illinois;US;1075;27;0;1048
+Illinois;US;1135;27;0;1108
+Illinois;US;7415;92;0;7323
+Illinois;US;1986;33;0;1953
+Illinois;US;68737;1145;0;67592
+Illinois;US;1427;53;0;1374
+Illinois;US;460;9;0;451
+Illinois;US;4298;68;0;4230
+Illinois;US;2898;53;0;2845
+Illinois;US;1380;49;0;1331
+Illinois;US;3820;68;0;3752
+Illinois;US;2544;49;0;2495
+Illinois;US;385;4;0;381
+Illinois;US;1252;42;0;1210
+Illinois;US;4339;54;0;4285
+Illinois;US;714;16;0;698
+Illinois;US;1469;33;0;1436
+Illinois;US;301;8;0;293
+Illinois;US;451;16;0;435
+Illinois;US;3996;76;0;3920
+Illinois;US;2577;56;0;2521
+Illinois;US;4156;67;0;4089
+Illinois;US;1038;16;0;1022
+Illinois;US;3409;104;0;3305
+Illinois;US;2194;56;0;2138
+Illinois;US;1481;24;0;1457
+Illinois;US;1211;15;0;1196
+Illinois;US;45704;675;0;45029
+Illinois;US;11431;179;0;11252
+Illinois;US;9616;78;0;9538
+Illinois;US;4577;140;0;4437
+Illinois;US;9392;247;0;9145
+Illinois;US;53068;884;0;52184
+Illinois;US;2167;30;0;2137
+Illinois;US;3024;72;0;2952
+Illinois;US;3624;66;0;3558
+Illinois;US;3075;56;0;3019
+Illinois;US;8775;179;0;8596
+Illinois;US;3810;94;0;3716
+Illinois;US;24144;462;0;23682
+Illinois;US;3958;111;0;3847
+Illinois;US;662;13;0;649
+Illinois;US;1162;40;0;1122
+Illinois;US;1014;30;0;984
+Illinois;US;2132;51;0;2081
+Illinois;US;21498;248;0;21250
+Illinois;US;13143;159;0;12984
+Illinois;US;868;10;0;858
+Illinois;US;1167;29;0;1138
+Illinois;US;3545;70;0;3475
+Illinois;US;3031;41;0;2990
+Illinois;US;3241;89;0;3152
+Illinois;US;1364;28;0;1336
+Illinois;US;4582;71;0;4511
+Illinois;US;33;0;0;33
+Illinois;US;14905;239;0;14666
+Illinois;US;2663;60;0;2603
+Illinois;US;1167;16;0;1151
+Illinois;US;1539;46;0;1493
+Illinois;US;243;2;0;241
+Illinois;US;609;3;0;606
+Illinois;US;345;2;0;343
+Illinois;US;3704;68;0;3636
+Illinois;US;1527;44;0;1483
+Illinois;US;11834;302;0;11532
+Illinois;US;2014;53;0;1961
+Illinois;US;14469;234;0;14235
+Illinois;US;617;16;0;601
+Illinois;US;373;1;0;372
+Illinois;US;1961;35;0;1926
+Illinois;US;22065;424;0;21641
+Illinois;US;494;20;0;474
+Illinois;US;3499;74;0;3425
+Illinois;US;11860;242;0;11618
+Illinois;US;110;0;0;110
+Illinois;US;1973;32;0;1941
+Illinois;US;7447;112;0;7335
+Illinois;US;1164;14;0;1150
+Illinois;US;1580;43;0;1537
+Illinois;US;1443;25;0;1418
+Illinois;US;1503;43;0;1460
+Illinois;US;1325;30;0;1295
+Illinois;US;5243;173;0;5070
+Illinois;US;57945;867;0;57078
+Illinois;US;6146;116;0;6030
+Illinois;US;26161;407;0;25754
+Illinois;US;3172;66;0;3106
+Indiana;US;2952;35;0;2917
+Indiana;US;31919;541;0;31378
+Indiana;US;6266;94;0;6172
+Indiana;US;843;10;0;833
+Indiana;US;1075;22;0;1053
+Indiana;US;5343;67;0;5276
+Indiana;US;855;30;0;825
+Indiana;US;1521;15;0;1506
+Indiana;US;4717;60;0;4657
+Indiana;US;10240;130;0;10110
+Indiana;US;2179;32;0;2147
+Indiana;US;3645;39;0;3606
+Indiana;US;757;9;0;748
+Indiana;US;2616;72;0;2544
+Indiana;US;3373;63;0;3310
+Indiana;US;4584;44;0;4540
+Indiana;US;2421;82;0;2339
+Indiana;US;8836;132;0;8704
+Indiana;US;5443;72;0;5371
+Indiana;US;24098;341;0;23757
+Indiana;US;2423;48;0;2375
+Indiana;US;6150;105;0;6045
+Indiana;US;1797;25;0;1772
+Indiana;US;1434;33;0;1401
+Indiana;US;1592;29;0;1563
+Indiana;US;3565;56;0;3509
+Indiana;US;5818;110;0;5708
+Indiana;US;2333;60;0;2273
+Indiana;US;28371;304;0;28067
+Indiana;US;6387;97;0;6290
+Indiana;US;3285;42;0;3243
+Indiana;US;13870;241;0;13629
+Indiana;US;4936;64;0;4872
+Indiana;US;7897;138;0;7759
+Indiana;US;2835;57;0;2778
+Indiana;US;4147;45;0;4102
+Indiana;US;2824;33;0;2791
+Indiana;US;1628;21;0;1607
+Indiana;US;2507;38;0;2469
+Indiana;US;1925;35;0;1890
+Indiana;US;14496;284;0;14212
+Indiana;US;3278;39;0;3239
+Indiana;US;7872;77;0;7795
+Indiana;US;2241;61;0;2180
+Indiana;US;8771;155;0;8616
+Indiana;US;44306;666;0;43640
+Indiana;US;3805;75;0;3730
+Indiana;US;10561;212;0;10349
+Indiana;US;81558;1297;0;80261
+Indiana;US;4941;84;0;4857
+Indiana;US;700;13;0;687
+Indiana;US;3098;43;0;3055
+Indiana;US;9076;108;0;8968
+Indiana;US;3348;51;0;3297
+Indiana;US;5162;91;0;5071
+Indiana;US;894;21;0;873
+Indiana;US;4605;57;0;4548
+Indiana;US;467;7;0;460
+Indiana;US;1514;33;0;1481
+Indiana;US;1595;37;0;1558
+Indiana;US;1290;8;0;1282
+Indiana;US;1472;27;0;1445
+Indiana;US;1136;25;0;1111
+Indiana;US;14399;160;0;14239
+Indiana;US;2323;26;0;2297
+Indiana;US;952;37;0;915
+Indiana;US;2848;47;0;2801
+Indiana;US;2083;40;0;2043
+Indiana;US;2923;45;0;2878
+Indiana;US;1499;18;0;1481
+Indiana;US;2169;37;0;2132
+Indiana;US;4021;79;0;3942
+Indiana;US;1819;17;0;1802
+Indiana;US;26766;371;0;26395
+Indiana;US;1713;41;0;1672
+Indiana;US;3063;40;0;3023
+Indiana;US;1890;31;0;1859
+Indiana;US;620;5;0;615
+Indiana;US;17422;121;0;17301
+Indiana;US;1282;32;0;1250
+Indiana;US;0;374;0;-374
+Indiana;US;611;3;0;608
+Indiana;US;18643;213;0;18430
+Indiana;US;1449;33;0;1416
+Indiana;US;10483;171;0;10312
+Indiana;US;2930;45;0;2885
+Indiana;US;658;7;0;651
+Indiana;US;6438;90;0;6348
+Indiana;US;1771;18;0;1753
+Indiana;US;5933;157;0;5776
+Indiana;US;2294;47;0;2247
+Indiana;US;2675;38;0;2637
+Indiana;US;2941;25;0;2916
+Iowa;US;686;20;0;666
+Iowa;US;295;3;0;292
+Iowa;US;1269;27;0;1242
+Iowa;US;1098;38;0;1060
+Iowa;US;411;8;0;403
+Iowa;US;2088;44;0;2044
+Iowa;US;13659;236;0;13423
+Iowa;US;2164;17;0;2147
+Iowa;US;2422;48;0;2374
+Iowa;US;1583;23;0;1560
+Iowa;US;3919;29;0;3890
+Iowa;US;1468;24;0;1444
+Iowa;US;1220;9;0;1211
+Iowa;US;2534;34;0;2500
+Iowa;US;1126;41;0;1085
+Iowa;US;1518;19;0;1499
+Iowa;US;4635;68;0;4567
+Iowa;US;1382;27;0;1355
+Iowa;US;1106;12;0;1094
+Iowa;US;784;7;0;777
+Iowa;US;1660;19;0;1641
+Iowa;US;1507;48;0;1459
+Iowa;US;4488;61;0;4427
+Iowa;US;2285;22;0;2263
+Iowa;US;8821;71;0;8750
+Iowa;US;689;21;0;668
+Iowa;US;480;4;0;476
+Iowa;US;1723;36;0;1687
+Iowa;US;3809;41;0;3768
+Iowa;US;1842;26;0;1816
+Iowa;US;11312;150;0;11162
+Iowa;US;1103;31;0;1072
+Iowa;US;1600;22;0;1578
+Iowa;US;1380;36;0;1344
+Iowa;US;1016;18;0;998
+Iowa;US;504;6;0;498
+Iowa;US;688;7;0;681
+Iowa;US;1202;26;0;1176
+Iowa;US;1024;24;0;1000
+Iowa;US;1579;29;0;1550
+Iowa;US;1290;24;0;1266
+Iowa;US;1542;29;0;1513
+Iowa;US;1547;62;0;1485
+Iowa;US;2634;30;0;2604
+Iowa;US;828;19;0;809
+Iowa;US;1042;19;0;1023
+Iowa;US;740;30;0;710
+Iowa;US;1239;22;0;1217
+Iowa;US;1911;31;0;1880
+Iowa;US;3204;58;0;3146
+Iowa;US;1195;24;0;1171
+Iowa;US;12047;49;0;11998
+Iowa;US;2704;49;0;2655
+Iowa;US;843;25;0;818
+Iowa;US;1713;43;0;1670
+Iowa;US;3144;30;0;3114
+Iowa;US;17695;274;0;17421
+Iowa;US;1143;30;0;1113
+Iowa;US;648;8;0;640
+Iowa;US;1338;32;0;1306
+Iowa;US;1189;9;0;1180
+Iowa;US;1907;36;0;1871
+Iowa;US;3021;52;0;2969
+Iowa;US;4257;61;0;4196
+Iowa;US;1360;16;0;1344
+Iowa;US;1157;34;0;1123
+Iowa;US;633;16;0;617
+Iowa;US;808;18;0;790
+Iowa;US;840;22;0;818
+Iowa;US;3867;77;0;3790
+Iowa;US;1687;54;0;1633
+Iowa;US;634;9;0;625
+Iowa;US;1437;15;0;1422
+Iowa;US;901;9;0;892
+Iowa;US;3489;68;0;3421
+Iowa;US;772;11;0;761
+Iowa;US;45396;448;0;44948
+Iowa;US;8942;112;0;8830
+Iowa;US;1324;24;0;1300
+Iowa;US;426;9;0;417
+Iowa;US;1106;15;0;1091
+Iowa;US;15387;163;0;15224
+Iowa;US;1014;26;0;988
+Iowa;US;4537;56;0;4481
+Iowa;US;8638;34;0;8604
+Iowa;US;1858;57;0;1801
+Iowa;US;591;9;0;582
+Iowa;US;916;0;0;916
+Iowa;US;1081;22;0;1059
+Iowa;US;494;12;0;482
+Iowa;US;3416;98;0;3318
+Iowa;US;4388;38;0;4350
+Iowa;US;2145;31;0;2114
+Iowa;US;414;21;0;393
+Iowa;US;4675;71;0;4604
+Iowa;US;1185;29;0;1156
+Iowa;US;1551;19;0;1532
+Iowa;US;12953;175;0;12778
+Iowa;US;599;3;0;596
+Iowa;US;1630;24;0;1606
+Kansas;US;829;11;0;818
+Kansas;US;703;8;0;695
+Kansas;US;1356;11;0;1345
+Kansas;US;333;6;0;327
+Kansas;US;2405;39;0;2366
+Kansas;US;1151;17;0;1134
+Kansas;US;1140;32;0;1108
+Kansas;US;6340;53;0;6287
+Kansas;US;219;3;0;216
+Kansas;US;217;4;0;213
+Kansas;US;2032;35;0;1997
+Kansas;US;327;11;0;316
+Kansas;US;215;5;0;210
+Kansas;US;706;23;0;683
+Kansas;US;917;22;0;895
+Kansas;US;576;14;0;562
+Kansas;US;151;5;0;146
+Kansas;US;3092;57;0;3035
+Kansas;US;3927;53;0;3874
+Kansas;US;241;9;0;232
+Kansas;US;1467;20;0;1447
+Kansas;US;836;10;0;826
+Kansas;US;7470;62;0;7408
+Kansas;US;233;10;0;223
+Kansas;US;148;2;0;146
+Kansas;US;3360;61;0;3299
+Kansas;US;1133;18;0;1115
+Kansas;US;5774;59;0;5715
+Kansas;US;5381;49;0;5332
+Kansas;US;2072;23;0;2049
+Kansas;US;2441;14;0;2427
+Kansas;US;356;19;0;337
+Kansas;US;226;4;0;222
+Kansas;US;893;14;0;879
+Kansas;US;528;12;0;516
+Kansas;US;99;1;0;98
+Kansas;US;492;7;0;485
+Kansas;US;195;0;0;195
+Kansas;US;508;19;0;489
+Kansas;US;3170;37;0;3133
+Kansas;US;392;6;0;386
+Kansas;US;169;5;0;164
+Kansas;US;1194;10;0;1184
+Kansas;US;1425;25;0;1400
+Kansas;US;180;3;0;177
+Kansas;US;44973;600;0;44373
+Kansas;US;527;10;0;517
+Kansas;US;616;11;0;605
+Kansas;US;209;4;0;205
+Kansas;US;2295;10;0;2285
+Kansas;US;114;7;0;107
+Kansas;US;5666;51;0;5615
+Kansas;US;236;3;0;233
+Kansas;US;642;5;0;637
+Kansas;US;283;6;0;277
+Kansas;US;3679;68;0;3611
+Kansas;US;847;10;0;837
+Kansas;US;859;20;0;839
+Kansas;US;2722;58;0;2664
+Kansas;US;442;7;0;435
+Kansas;US;2209;19;0;2190
+Kansas;US;515;7;0;508
+Kansas;US;2750;40;0;2710
+Kansas;US;450;16;0;434
+Kansas;US;216;8;0;208
+Kansas;US;1400;49;0;1351
+Kansas;US;1497;14;0;1483
+Kansas;US;318;15;0;303
+Kansas;US;1177;26;0;1151
+Kansas;US;1003;15;0;988
+Kansas;US;258;2;0;256
+Kansas;US;472;10;0;462
+Kansas;US;0;0;0;0
+Kansas;US;1065;8;0;1057
+Kansas;US;637;17;0;620
+Kansas;US;1345;10;0;1335
+Kansas;US;754;23;0;731
+Kansas;US;270;6;0;264
+Kansas;US;7605;112;0;7493
+Kansas;US;620;9;0;611
+Kansas;US;923;5;0;918
+Kansas;US;5597;23;0;5574
+Kansas;US;580;11;0;569
+Kansas;US;391;10;0;381
+Kansas;US;774;19;0;755
+Kansas;US;5161;81;0;5080
+Kansas;US;535;13;0;522
+Kansas;US;46446;495;0;45951
+Kansas;US;3620;32;0;3588
+Kansas;US;13913;262;0;13651
+Kansas;US;406;8;0;398
+Kansas;US;556;10;0;546
+Kansas;US;238;2;0;236
+Kansas;US;309;8;0;301
+Kansas;US;166;6;0;160
+Kansas;US;511;7;0;504
+Kansas;US;1665;32;0;1633
+Kansas;US;965;17;0;948
+Kansas;US;350;6;0;344
+Kansas;US;0;0;0;0
+Kansas;US;545;10;0;535
+Kansas;US;166;3;0;163
+Kansas;US;469;7;0;462
+Kansas;US;209;5;0;204
+Kansas;US;786;10;0;776
+Kansas;US;166;3;0;163
+Kansas;US;17217;220;0;16997
+Kentucky;US;1345;43;0;1302
+Kentucky;US;1406;19;0;1387
+Kentucky;US;1261;4;0;1257
+Kentucky;US;283;3;0;280
+Kentucky;US;3028;35;0;2993
+Kentucky;US;633;10;0;623
+Kentucky;US;2218;32;0;2186
+Kentucky;US;9619;46;0;9573
+Kentucky;US;1225;1;0;1224
+Kentucky;US;3865;32;0;3833
+Kentucky;US;2811;12;0;2799
+Kentucky;US;387;3;0;384
+Kentucky;US;764;3;0;761
+Kentucky;US;877;5;0;872
+Kentucky;US;4971;31;0;4940
+Kentucky;US;998;17;0;981
+Kentucky;US;1044;17;0;1027
+Kentucky;US;2851;30;0;2821
+Kentucky;US;5734;34;0;5700
+Kentucky;US;387;1;0;386
+Kentucky;US;738;8;0;730
+Kentucky;US;1653;18;0;1635
+Kentucky;US;947;27;0;920
+Kentucky;US;5225;60;0;5165
+Kentucky;US;1931;16;0;1915
+Kentucky;US;2039;14;0;2025
+Kentucky;US;1121;20;0;1101
+Kentucky;US;465;3;0;462
+Kentucky;US;520;6;0;514
+Kentucky;US;7418;86;0;7332
+Kentucky;US;636;13;0;623
+Kentucky;US;878;1;0;877
+Kentucky;US;801;0;0;801
+Kentucky;US;27127;160;0;26967
+Kentucky;US;886;5;0;881
+Kentucky;US;2339;16;0;2323
+Kentucky;US;2597;23;0;2574
+Kentucky;US;408;4;0;404
+Kentucky;US;523;13;0;510
+Kentucky;US;1136;4;0;1132
+Kentucky;US;1489;10;0;1479
+Kentucky;US;3351;54;0;3297
+Kentucky;US;1548;37;0;1511
+Kentucky;US;851;11;0;840
+Kentucky;US;2822;21;0;2801
+Kentucky;US;638;11;0;627
+Kentucky;US;7248;53;0;7195
+Kentucky;US;1966;26;0;1940
+Kentucky;US;1161;2;0;1159
+Kentucky;US;1426;12;0;1414
+Kentucky;US;3640;47;0;3593
+Kentucky;US;972;5;0;967
+Kentucky;US;254;7;0;247
+Kentucky;US;3262;101;0;3161
+Kentucky;US;1049;22;0;1027
+Kentucky;US;60258;599;0;59659
+Kentucky;US;3154;49;0;3105
+Kentucky;US;1420;16;0;1404
+Kentucky;US;11335;78;0;11257
+Kentucky;US;837;14;0;823
+Kentucky;US;2267;10;0;2257
+Kentucky;US;957;6;0;951
+Kentucky;US;4613;17;0;4596
+Kentucky;US;997;5;0;992
+Kentucky;US;1100;18;0;1082
+Kentucky;US;634;2;0;632
+Kentucky;US;1358;4;0;1354
+Kentucky;US;935;28;0;907
+Kentucky;US;1724;28;0;1696
+Kentucky;US;578;15;0;563
+Kentucky;US;1997;43;0;1954
+Kentucky;US;378;10;0;368
+Kentucky;US;6819;45;0;6774
+Kentucky;US;774;1;0;773
+Kentucky;US;1746;20;0;1726
+Kentucky;US;1958;25;0;1933
+Kentucky;US;781;10;0;771
+Kentucky;US;1103;24;0;1079
+Kentucky;US;4880;47;0;4833
+Kentucky;US;1304;8;0;1296
+Kentucky;US;684;20;0;664
+Kentucky;US;1427;5;0;1422
+Kentucky;US;275;2;0;273
+Kentucky;US;1919;11;0;1908
+Kentucky;US;703;12;0;691
+Kentucky;US;1089;28;0;1061
+Kentucky;US;1779;15;0;1764
+Kentucky;US;1700;0;0;1700
+Kentucky;US;2349;37;0;2312
+Kentucky;US;3597;23;0;3574
+Kentucky;US;378;5;0;373
+Kentucky;US;1888;31;0;1857
+Kentucky;US;5676;47;0;5629
+Kentucky;US;501;7;0;494
+Kentucky;US;360;10;0;350
+Kentucky;US;743;1;0;742
+Kentucky;US;1857;17;0;1840
+Kentucky;US;3906;39;0;3867
+Kentucky;US;797;0;0;797
+Kentucky;US;4594;59;0;4535
+Kentucky;US;160;8;0;152
+Kentucky;US;1094;12;0;1082
+Kentucky;US;1551;3;0;1548
+Kentucky;US;1286;34;0;1252
+Kentucky;US;3093;24;0;3069
+Kentucky;US;3545;29;0;3516
+Kentucky;US;1406;15;0;1391
+Kentucky;US;1176;5;0;1171
+Kentucky;US;2103;22;0;2081
+Kentucky;US;872;16;0;856
+Kentucky;US;839;3;0;836
+Kentucky;US;478;2;0;476
+Kentucky;US;0;0;0;0
+Kentucky;US;1099;9;0;1090
+Kentucky;US;12138;88;0;12050
+Kentucky;US;1034;16;0;1018
+Kentucky;US;1703;20;0;1683
+Kentucky;US;959;14;0;945
+Kentucky;US;3310;14;0;3296
+Kentucky;US;362;4;0;358
+Kentucky;US;1565;4;0;1561
+Louisiana;US;5588;172;0;5416
+Louisiana;US;2643;76;0;2567
+Louisiana;US;9469;126;0;9343
+Louisiana;US;1629;29;0;1600
+Louisiana;US;3197;100;0;3097
+Louisiana;US;2374;59;0;2315
+Louisiana;US;1399;61;0;1338
+Louisiana;US;10648;213;0;10435
+Louisiana;US;20934;566;0;20368
+Louisiana;US;16156;303;0;15853
+Louisiana;US;1014;23;0;991
+Louisiana;US;444;4;0;440
+Louisiana;US;981;29;0;952
+Louisiana;US;1265;44;0;1221
+Louisiana;US;1623;47;0;1576
+Louisiana;US;2071;54;0;2017
+Louisiana;US;30192;635;0;29557
+Louisiana;US;1041;19;0;1022
+Louisiana;US;2686;96;0;2590
+Louisiana;US;2929;67;0;2862
+Louisiana;US;2250;92;0;2158
+Louisiana;US;1736;42;0;1694
+Louisiana;US;5594;130;0;5464
+Louisiana;US;3064;77;0;2987
+Louisiana;US;1518;41;0;1477
+Louisiana;US;37684;733;0;36951
+Louisiana;US;2553;71;0;2482
+Louisiana;US;1275;28;0;1247
+Louisiana;US;19293;217;0;19076
+Louisiana;US;7378;169;0;7209
+Louisiana;US;3738;80;0;3658
+Louisiana;US;10372;140;0;10232
+Louisiana;US;1461;25;0;1436
+Louisiana;US;2429;54;0;2375
+Louisiana;US;3384;68;0;3316
+Louisiana;US;24476;701;0;23775
+Louisiana;US;16035;334;0;15701
+Louisiana;US;0;0;0;0
+Louisiana;US;1975;22;0;1953
+Louisiana;US;2147;62;0;2085
+Louisiana;US;9847;231;0;9616
+Louisiana;US;744;29;0;715
+Louisiana;US;2030;41;0;1989
+Louisiana;US;2380;47;0;2333
+Louisiana;US;2912;41;0;2871
+Louisiana;US;4399;80;0;4319
+Louisiana;US;797;6;0;791
+Louisiana;US;1594;45;0;1549
+Louisiana;US;3032;123;0;2909
+Louisiana;US;7416;214;0;7202
+Louisiana;US;4321;95;0;4226
+Louisiana;US;3533;105;0;3428
+Louisiana;US;19309;396;0;18913
+Louisiana;US;10279;208;0;10071
+Louisiana;US;327;5;0;322
+Louisiana;US;7586;163;0;7423
+Louisiana;US;414;0;0;414
+Louisiana;US;2115;69;0;2046
+Louisiana;US;4213;91;0;4122
+Louisiana;US;2533;80;0;2453
+Louisiana;US;3614;102;0;3512
+Louisiana;US;3401;77;0;3324
+Louisiana;US;2153;50;0;2103
+Louisiana;US;1069;36;0;1033
+Louisiana;US;1001;26;0;975
+Louisiana;US;1316;34;0;1282
+Maine;US;3612;51;0;3561
+Maine;US;1024;34;0;990
+Maine;US;9794;126;0;9668
+Maine;US;564;7;0;557
+Maine;US;683;27;0;656
+Maine;US;2606;36;0;2570
+Maine;US;485;4;0;481
+Maine;US;393;2;0;391
+Maine;US;0;0;0;0
+Maine;US;1560;34;0;1526
+Maine;US;2894;45;0;2849
+Maine;US;163;1;0;162
+Maine;US;614;1;0;613
+Maine;US;942;25;0;917
+Maine;US;3;0;0;3
+Maine;US;428;18;0;410
+Maine;US;498;7;0;491
+Maine;US;7296;93;0;7203
+Maryland;US;5888;164;0;5724
+Maryland;US;29955;419;0;29536
+Maryland;US;44057;1060;0;42997
+Maryland;US;35610;767;0;34843
+Maryland;US;3009;47;0;2962
+Maryland;US;1645;13;0;1632
+Maryland;US;6314;180;0;6134
+Maryland;US;4366;91;0;4275
+Maryland;US;7206;133;0;7073
+Maryland;US;1828;24;0;1804
+Maryland;US;14230;223;0;14007
+Maryland;US;1716;57;0;1659
+Maryland;US;10259;187;0;10072
+Maryland;US;13433;193;0;13240
+Maryland;US;937;30;0;907
+Maryland;US;54241;1226;0;53015
+Maryland;US;62927;1161;0;61766
+Maryland;US;2177;33;0;2144
+Maryland;US;2074;24;0;2050
+Maryland;US;4081;96;0;3985
+Maryland;US;1499;15;0;1484
+Maryland;US;0;76;0;-76
+Maryland;US;10495;181;0;10314
+Maryland;US;5701;101;0;5600
+Maryland;US;2797;66;0;2731
+Massachusetts;US;7315;300;0;7015
+Massachusetts;US;3969;184;0;3785
+Massachusetts;US;44697;1223;0;43474
+Massachusetts;US;1655;2;0;1653
+Massachusetts;US;71251;1859;0;69392
+Massachusetts;US;1589;95;0;1494
+Massachusetts;US;32936;1134;0;31802
+Massachusetts;US;4996;219;0;4777
+Massachusetts;US;92781;2950;0;89831
+Massachusetts;US;35130;1392;0;33738
+Massachusetts;US;31740;1091;0;30649
+Massachusetts;US;65398;1481;0;63917
+Massachusetts;US;23157;8;0;23149
+Massachusetts;US;53526;1714;0;51812
+Michigan;US;387;19;0;368
+Michigan;US;373;3;0;370
+Michigan;US;6491;92;0;6399
+Michigan;US;1345;42;0;1303
+Michigan;US;783;16;0;767
+Michigan;US;670;25;0;645
+Michigan;US;570;29;0;541
+Michigan;US;3323;39;0;3284
+Michigan;US;6845;236;0;6609
+Michigan;US;779;28;0;751
+Michigan;US;10197;212;0;9985
+Michigan;US;3429;75;0;3354
+Michigan;US;8464;207;0;8257
+Michigan;US;3547;56;0;3491
+Michigan;US;934;11;0;923
+Michigan;US;832;33;0;799
+Michigan;US;1639;18;0;1621
+Michigan;US;1378;57;0;1321
+Michigan;US;4455;51;0;4404
+Michigan;US;513;5;0;508
+Michigan;US;3015;79;0;2936
+Michigan;US;2277;70;0;2207
+Michigan;US;5388;117;0;5271
+Michigan;US;1326;34;0;1292
+Michigan;US;298;5;0;293
+Michigan;US;23473;684;0;22789
+Michigan;US;1334;36;0;1298
+Michigan;US;1077;41;0;1036
+Michigan;US;3643;53;0;3590
+Michigan;US;2570;91;0;2479
+Michigan;US;2972;67;0;2905
+Michigan;US;2310;34;0;2276
+Michigan;US;1789;52;0;1737
+Michigan;US;14026;234;0;13792
+Michigan;US;3801;57;0;3744
+Michigan;US;1203;57;0;1146
+Michigan;US;886;37;0;849
+Michigan;US;3722;60;0;3662
+Michigan;US;8504;194;0;8310
+Michigan;US;13563;285;0;13278
+Michigan;US;524;14;0;510
+Michigan;US;47241;612;0;46629
+Michigan;US;115;2;0;113
+Michigan;US;334;10;0;324
+Michigan;US;4414;106;0;4308
+Michigan;US;758;9;0;749
+Michigan;US;5184;84;0;5100
+Michigan;US;8959;95;0;8864
+Michigan;US;198;0;0;198
+Michigan;US;402;3;0;399
+Michigan;US;53400;1767;0;51633
+Michigan;US;703;18;0;685
+Michigan;US;3783;53;0;3730
+Michigan;US;1110;22;0;1088
+Michigan;US;1792;15;0;1777
+Michigan;US;1795;36;0;1759
+Michigan;US;22950;136;0;22814
+Michigan;US;4497;53;0;4444
+Michigan;US;603;13;0;590
+Michigan;US;8603;174;0;8429
+Michigan;US;3242;78;0;3164
+Michigan;US;340;13;0;327
+Michigan;US;9992;281;0;9711
+Michigan;US;2482;40;0;2442
+Michigan;US;67307;1809;0;65498
+Michigan;US;1739;44;0;1695
+Michigan;US;1000;31;0;969
+Michigan;US;318;16;0;302
+Michigan;US;943;20;0;923
+Michigan;US;337;19;0;318
+Michigan;US;1070;25;0;1045
+Michigan;US;20198;308;0;19890
+Michigan;US;2444;11;0;2433
+Michigan;US;584;22;0;562
+Michigan;US;1043;28;0;1015
+Michigan;US;13488;453;0;13035
+Michigan;US;1722;70;0;1652
+Michigan;US;246;5;0;241
+Michigan;US;3328;65;0;3263
+Michigan;US;7870;204;0;7666
+Michigan;US;4117;67;0;4050
+Michigan;US;2931;114;0;2817
+Michigan;US;13;0;0;13
+Michigan;US;4506;91;0;4415
+Michigan;US;15413;218;0;15195
+Michigan;US;92449;3854;0;88595
+Michigan;US;1167;20;0;1147
+Minnesota;US;1076;33;0;1043
+Minnesota;US;30877;363;0;30514
+Minnesota;US;2841;39;0;2802
+Minnesota;US;3094;47;0;3047
+Minnesota;US;4186;85;0;4101
+Minnesota;US;455;3;0;452
+Minnesota;US;5389;33;0;5356
+Minnesota;US;2145;34;0;2111
+Minnesota;US;2785;43;0;2742
+Minnesota;US;6924;36;0;6888
+Minnesota;US;2073;23;0;2050
+Minnesota;US;1309;32;0;1277
+Minnesota;US;4508;32;0;4476
+Minnesota;US;6502;80;0;6422
+Minnesota;US;685;14;0;671
+Minnesota;US;114;0;0;114
+Minnesota;US;1268;18;0;1250
+Minnesota;US;4813;74;0;4739
+Minnesota;US;32876;338;0;32538
+Minnesota;US;1338;4;0;1334
+Minnesota;US;3734;66;0;3668
+Minnesota;US;1046;16;0;1030
+Minnesota;US;1224;5;0;1219
+Minnesota;US;2434;20;0;2414
+Minnesota;US;3453;58;0;3395
+Minnesota;US;429;8;0;421
+Minnesota;US;92747;1474;0;91273
+Minnesota;US;1356;13;0;1343
+Minnesota;US;1492;38;0;1454
+Minnesota;US;2816;41;0;2775
+Minnesota;US;2840;43;0;2797
+Minnesota;US;852;10;0;842
+Minnesota;US;974;18;0;956
+Minnesota;US;5534;71;0;5463
+Minnesota;US;372;19;0;353
+Minnesota;US;593;10;0;583
+Minnesota;US;657;16;0;641
+Minnesota;US;632;15;0;617
+Minnesota;US;190;1;0;189
+Minnesota;US;2088;15;0;2073
+Minnesota;US;482;1;0;481
+Minnesota;US;3006;36;0;2970
+Minnesota;US;410;7;0;403
+Minnesota;US;703;15;0;688
+Minnesota;US;1693;26;0;1667
+Minnesota;US;3242;45;0;3197
+Minnesota;US;1992;33;0;1959
+Minnesota;US;2136;46;0;2090
+Minnesota;US;3111;44;0;3067
+Minnesota;US;3633;29;0;3604
+Minnesota;US;878;5;0;873
+Minnesota;US;2238;36;0;2202
+Minnesota;US;3687;46;0;3641
+Minnesota;US;423;8;0;415
+Minnesota;US;10413;75;0;10338
+Minnesota;US;4544;66;0;4478
+Minnesota;US;988;15;0;973
+Minnesota;US;2660;13;0;2647
+Minnesota;US;939;23;0;916
+Minnesota;US;3279;56;0;3223
+Minnesota;US;737;5;0;732
+Minnesota;US;39820;736;0;39084
+Minnesota;US;316;4;0;312
+Minnesota;US;1395;27;0;1368
+Minnesota;US;1371;39;0;1332
+Minnesota;US;6041;68;0;5973
+Minnesota;US;1097;12;0;1085
+Minnesota;US;1654;16;0;1638
+Minnesota;US;11917;96;0;11821
+Minnesota;US;8189;65;0;8124
+Minnesota;US;1083;7;0;1076
+Minnesota;US;13609;241;0;13368
+Minnesota;US;17813;187;0;17626
+Minnesota;US;2722;9;0;2713
+Minnesota;US;697;8;0;689
+Minnesota;US;831;18;0;813
+Minnesota;US;2316;30;0;2286
+Minnesota;US;250;3;0;247
+Minnesota;US;436;68;0;368
+Minnesota;US;1695;3;0;1692
+Minnesota;US;1196;16;0;1180
+Minnesota;US;1889;16;0;1873
+Minnesota;US;20066;227;0;19839
+Minnesota;US;1063;8;0;1055
+Minnesota;US;622;9;0;613
+Minnesota;US;3872;46;0;3826
+Minnesota;US;11570;104;0;11466
+Minnesota;US;935;14;0;921
+Mississippi;US;2046;70;0;1976
+Mississippi;US;2632;53;0;2579
+Mississippi;US;977;25;0;952
+Mississippi;US;1935;59;0;1876
+Mississippi;US;815;23;0;792
+Mississippi;US;3966;108;0;3858
+Mississippi;US;1357;21;0;1336
+Mississippi;US;1042;21;0;1021
+Mississippi;US;1836;44;0;1792
+Mississippi;US;603;13;0;590
+Mississippi;US;861;25;0;836
+Mississippi;US;1386;60;0;1326
+Mississippi;US;1590;33;0;1557
+Mississippi;US;2300;54;0;2246
+Mississippi;US;2408;49;0;2359
+Mississippi;US;2113;71;0;2042
+Mississippi;US;17120;175;0;16945
+Mississippi;US;5949;119;0;5830
+Mississippi;US;664;15;0;649
+Mississippi;US;1990;38;0;1952
+Mississippi;US;1097;29;0;1068
+Mississippi;US;2177;70;0;2107
+Mississippi;US;2665;59;0;2606
+Mississippi;US;13353;193;0;13160
+Mississippi;US;16207;322;0;15885
+Mississippi;US;1685;67;0;1618
+Mississippi;US;829;24;0;805
+Mississippi;US;159;6;0;153
+Mississippi;US;2624;59;0;2565
+Mississippi;US;10303;183;0;10120
+Mississippi;US;1697;35;0;1662
+Mississippi;US;538;19;0;519
+Mississippi;US;841;25;0;816
+Mississippi;US;6288;110;0;6178
+Mississippi;US;771;20;0;751
+Mississippi;US;4942;92;0;4850
+Mississippi;US;4841;65;0;4776
+Mississippi;US;5847;180;0;5667
+Mississippi;US;1024;17;0;1007
+Mississippi;US;2305;64;0;2241
+Mississippi;US;8796;141;0;8655
+Mississippi;US;3002;105;0;2897
+Mississippi;US;2970;85;0;2885
+Mississippi;US;5355;116;0;5239
+Mississippi;US;8232;162;0;8070
+Mississippi;US;2106;72;0;2034
+Mississippi;US;3416;65;0;3351
+Mississippi;US;3533;105;0;3428
+Mississippi;US;1094;34;0;1060
+Mississippi;US;3370;152;0;3218
+Mississippi;US;1913;42;0;1871
+Mississippi;US;1103;22;0;1081
+Mississippi;US;3924;80;0;3844
+Mississippi;US;3683;78;0;3605
+Mississippi;US;3278;99;0;3179
+Mississippi;US;1016;31;0;985
+Mississippi;US;2620;77;0;2543
+Mississippi;US;3628;53;0;3575
+Mississippi;US;2450;52;0;2398
+Mississippi;US;688;8;0;680
+Mississippi;US;10689;211;0;10478
+Mississippi;US;2462;45;0;2417
+Mississippi;US;427;17;0;410
+Mississippi;US;2348;67;0;2281
+Mississippi;US;1201;23;0;1178
+Mississippi;US;1423;20;0;1403
+Mississippi;US;2826;69;0;2757
+Mississippi;US;1401;34;0;1367
+Mississippi;US;2708;62;0;2646
+Mississippi;US;2404;50;0;2354
+Mississippi;US;1844;59;0;1785
+Mississippi;US;863;21;0;842
+Mississippi;US;0;0;0;0
+Mississippi;US;3430;60;0;3370
+Mississippi;US;1118;36;0;1082
+Mississippi;US;3484;98;0;3386
+Mississippi;US;4777;123;0;4654
+Mississippi;US;1996;30;0;1966
+Mississippi;US;922;24;0;898
+Mississippi;US;583;25;0;558
+Mississippi;US;2001;64;0;1937
+Mississippi;US;1165;34;0;1131
+Mississippi;US;2443;55;0;2388
+Missouri;US;1874;6;0;1868
+Missouri;US;1207;16;0;1191
+Missouri;US;286;6;0;280
+Missouri;US;1950;44;0;1906
+Missouri;US;2026;38;0;1988
+Missouri;US;880;9;0;871
+Missouri;US;964;14;0;950
+Missouri;US;1337;19;0;1318
+Missouri;US;1012;12;0;1000
+Missouri;US;14652;54;0;14598
+Missouri;US;6549;113;0;6436
+Missouri;US;3076;18;0;3058
+Missouri;US;597;7;0;590
+Missouri;US;4135;29;0;4106
+Missouri;US;3497;66;0;3431
+Missouri;US;7018;106;0;6912
+Missouri;US;733;18;0;715
+Missouri;US;404;7;0;397
+Missouri;US;6426;62;0;6364
+Missouri;US;608;9;0;599
+Missouri;US;381;3;0;378
+Missouri;US;6249;60;0;6189
+Missouri;US;418;5;0;413
+Missouri;US;7071;118;0;6953
+Missouri;US;1417;60;0;1357
+Missouri;US;8162;101;0;8061
+Missouri;US;1605;21;0;1584
+Missouri;US;1908;21;0;1887
+Missouri;US;394;10;0;384
+Missouri;US;750;19;0;731
+Missouri;US;530;10;0;520
+Missouri;US;857;21;0;836
+Missouri;US;765;9;0;756
+Missouri;US;714;20;0;694
+Missouri;US;2266;16;0;2250
+Missouri;US;7582;122;0;7460
+Missouri;US;791;31;0;760
+Missouri;US;677;16;0;661
+Missouri;US;21276;333;0;20943
+Missouri;US;770;28;0;742
+Missouri;US;724;10;0;714
+Missouri;US;1579;25;0;1554
+Missouri;US;454;9;0;445
+Missouri;US;346;9;0;337
+Missouri;US;675;4;0;671
+Missouri;US;2635;41;0;2594
+Missouri;US;452;1;0;451
+Missouri;US;26610;283;0;26327
+Missouri;US;11038;182;0;10856
+Missouri;US;17227;154;0;17073
+Missouri;US;3527;34;0;3493
+Missouri;US;33674;382;0;33292
+Missouri;US;163;2;0;161
+Missouri;US;2730;54;0;2676
+Missouri;US;2278;44;0;2234
+Missouri;US;2542;60;0;2482
+Missouri;US;603;3;0;600
+Missouri;US;3891;24;0;3867
+Missouri;US;482;11;0;471
+Missouri;US;1186;25;0;1161
+Missouri;US;1064;10;0;1054
+Missouri;US;1290;11;0;1279
+Missouri;US;501;7;0;494
+Missouri;US;2514;32;0;2482
+Missouri;US;1814;23;0;1791
+Missouri;US;155;2;0;153
+Missouri;US;2215;44;0;2171
+Missouri;US;1178;20;0;1158
+Missouri;US;1613;26;0;1587
+Missouri;US;562;7;0;555
+Missouri;US;545;9;0;536
+Missouri;US;1565;31;0;1534
+Missouri;US;1704;39;0;1665
+Missouri;US;3792;60;0;3732
+Missouri;US;2457;22;0;2435
+Missouri;US;633;3;0;630
+Missouri;US;1299;9;0;1290
+Missouri;US;482;5;0;477
+Missouri;US;1349;23;0;1326
+Missouri;US;1953;22;0;1931
+Missouri;US;4459;68;0;4391
+Missouri;US;2792;103;0;2689
+Missouri;US;1394;17;0;1377
+Missouri;US;2778;27;0;2751
+Missouri;US;2014;25;0;1989
+Missouri;US;2850;33;0;2817
+Missouri;US;207;2;0;205
+Missouri;US;717;9;0;708
+Missouri;US;1760;20;0;1740
+Missouri;US;1305;13;0;1292
+Missouri;US;252;2;0;250
+Missouri;US;745;9;0;736
+Missouri;US;2236;26;0;2210
+Missouri;US;239;1;0;238
+Missouri;US;234;3;0;231
+Missouri;US;3583;68;0;3515
+Missouri;US;449;9;0;440
+Missouri;US;328;4;0;324
+Missouri;US;30200;315;0;29885
+Missouri;US;514;5;0;509
+Missouri;US;7147;79;0;7068
+Missouri;US;78438;1563;0;76875
+Missouri;US;17464;302;0;17162
+Missouri;US;1518;11;0;1507
+Missouri;US;2152;34;0;2118
+Missouri;US;1837;28;0;1809
+Missouri;US;721;12;0;709
+Missouri;US;4211;60;0;4151
+Missouri;US;1472;20;0;1452
+Missouri;US;0;0;0;0
+Missouri;US;1276;30;0;1246
+Missouri;US;1860;11;0;1849
+Missouri;US;1985;41;0;1944
+Missouri;US;747;9;0;738
+Missouri;US;2785;45;0;2740
+Missouri;US;132;1;0;131
+Missouri;US;1263;24;0;1239
+Montana;US;833;8;0;825
+Montana;US;2221;69;0;2152
+Montana;US;621;23;0;598
+Montana;US;338;1;0;337
+Montana;US;746;8;0;738
+Montana;US;139;5;0;134
+Montana;US;7151;122;0;7029
+Montana;US;424;5;0;419
+Montana;US;1080;11;0;1069
+Montana;US;169;5;0;164
+Montana;US;983;27;0;956
+Montana;US;904;9;0;895
+Montana;US;271;2;0;269
+Montana;US;946;15;0;931
+Montana;US;9590;60;0;9530
+Montana;US;10713;41;0;10672
+Montana;US;74;2;0;72
+Montana;US;1381;24;0;1357
+Montana;US;49;0;0;49
+Montana;US;180;2;0;178
+Montana;US;1784;37;0;1747
+Montana;US;883;7;0;876
+Montana;US;80;0;0;80
+Montana;US;1727;19;0;1708
+Montana;US;5527;49;0;5478
+Montana;US;103;1;0;102
+Montana;US;1296;9;0;1287
+Montana;US;607;3;0;604
+Montana;US;151;0;0;151
+Montana;US;114;7;0;107
+Montana;US;207;0;0;207
+Montana;US;7222;60;0;7162
+Montana;US;282;7;0;275
+Montana;US;989;7;0;982
+Montana;US;11;1;0;10
+Montana;US;447;13;0;434
+Montana;US;410;3;0;407
+Montana;US;105;5;0;100
+Montana;US;836;5;0;831
+Montana;US;127;2;0;125
+Montana;US;2361;27;0;2334
+Montana;US;945;12;0;933
+Montana;US;1418;52;0;1366
+Montana;US;1079;30;0;1049
+Montana;US;529;5;0;524
+Montana;US;373;5;0;368
+Montana;US;3268;63;0;3205
+Montana;US;599;10;0;589
+Montana;US;325;6;0;319
+Montana;US;348;5;0;343
+Montana;US;683;8;0;675
+Montana;US;50;1;0;49
+Montana;US;0;0;0;0
+Montana;US;703;9;0;694
+Montana;US;153;6;0;147
+Montana;US;113;5;0;108
+Montana;US;14725;174;0;14551
+Nebraska;US;2507;36;0;2471
+Nebraska;US;449;5;0;444
+Nebraska;US;18;0;0;18
+Nebraska;US;26;0;0;26
+Nebraska;US;18;0;0;18
+Nebraska;US;459;4;0;455
+Nebraska;US;833;9;0;824
+Nebraska;US;167;3;0;164
+Nebraska;US;211;2;0;209
+Nebraska;US;4625;53;0;4572
+Nebraska;US;552;10;0;542
+Nebraska;US;756;10;0;746
+Nebraska;US;1961;14;0;1947
+Nebraska;US;594;10;0;584
+Nebraska;US;411;3;0;408
+Nebraska;US;259;6;0;253
+Nebraska;US;793;15;0;778
+Nebraska;US;598;11;0;587
+Nebraska;US;1502;19;0;1483
+Nebraska;US;907;9;0;898
+Nebraska;US;724;16;0;708
+Nebraska;US;3607;56;0;3551
+Nebraska;US;583;18;0;565
+Nebraska;US;2618;25;0;2593
+Nebraska;US;82;0;0;82
+Nebraska;US;515;8;0;507
+Nebraska;US;4186;48;0;4138
+Nebraska;US;58379;553;0;57826
+Nebraska;US;133;4;0;129
+Nebraska;US;447;9;0;438
+Nebraska;US;216;3;0;213
+Nebraska;US;170;1;0;169
+Nebraska;US;394;4;0;390
+Nebraska;US;1952;15;0;1937
+Nebraska;US;101;1;0;100
+Nebraska;US;134;3;0;131
+Nebraska;US;172;4;0;168
+Nebraska;US;22;4;0;18
+Nebraska;US;182;2;0;180
+Nebraska;US;6356;103;0;6253
+Nebraska;US;795;15;0;780
+Nebraska;US;191;0;0;191
+Nebraska;US;56;0;0;56
+Nebraska;US;205;3;0;202
+Nebraska;US;721;14;0;707
+Nebraska;US;49;2;0;47
+Nebraska;US;491;14;0;477
+Nebraska;US;588;1;0;587
+Nebraska;US;595;7;0;588
+Nebraska;US;605;4;0;601
+Nebraska;US;632;3;0;629
+Nebraska;US;38;0;0;38
+Nebraska;US;363;5;0;358
+Nebraska;US;761;7;0;754
+Nebraska;US;25068;137;0;24931
+Nebraska;US;3268;39;0;3229
+Nebraska;US;71;0;0;71
+Nebraska;US;38;0;0;38
+Nebraska;US;3950;40;0;3910
+Nebraska;US;23;1;0;22
+Nebraska;US;686;11;0;675
+Nebraska;US;437;15;0;422
+Nebraska;US;361;10;0;351
+Nebraska;US;542;12;0;530
+Nebraska;US;328;1;0;327
+Nebraska;US;1123;3;0;1120
+Nebraska;US;177;1;0;176
+Nebraska;US;255;11;0;244
+Nebraska;US;829;8;0;821
+Nebraska;US;569;20;0;549
+Nebraska;US;3671;45;0;3626
+Nebraska;US;368;9;0;359
+Nebraska;US;1077;9;0;1068
+Nebraska;US;575;15;0;560
+Nebraska;US;100;2;0;98
+Nebraska;US;1823;3;0;1820
+Nebraska;US;17431;86;0;17345
+Nebraska;US;2066;11;0;2055
+Nebraska;US;3115;69;0;3046
+Nebraska;US;1227;25;0;1202
+Nebraska;US;405;13;0;392
+Nebraska;US;165;4;0;161
+Nebraska;US;30;0;0;30
+Nebraska;US;338;8;0;330
+Nebraska;US;428;3;0;425
+Nebraska;US;50;0;0;50
+Nebraska;US;736;9;0;727
+Nebraska;US;1302;7;0;1295
+Nebraska;US;284;3;0;281
+Nebraska;US;1791;17;0;1774
+Nebraska;US;907;6;0;901
+Nebraska;US;288;4;0;284
+Nebraska;US;32;0;0;32
+Nebraska;US;1335;9;0;1326
+Nevada;US;5500;90;0;5410
+Nevada;US;1599;44;0;1555
+Nevada;US;200597;2866;0;197731
+Nevada;US;2250;25;0;2225
+Nevada;US;4123;40;0;4083
+Nevada;US;34;0;0;34
+Nevada;US;43;0;0;43
+Nevada;US;937;11;0;926
+Nevada;US;415;8;0;407
+Nevada;US;321;1;0;320
+Nevada;US;2440;48;0;2392
+Nevada;US;227;4;0;223
+Nevada;US;2366;57;0;2309
+Nevada;US;856;15;0;841
+Nevada;US;68;2;0;66
+Nevada;US;0;0;0;0
+Nevada;US;39378;564;0;38814
+Nevada;US;419;4;0;415
+New Hampshire;US;2440;77;0;2363
+New Hampshire;US;1219;4;0;1215
+New Hampshire;US;1910;9;0;1901
+New Hampshire;US;940;21;0;919
+New Hampshire;US;1547;10;0;1537
+New Hampshire;US;22446;502;0;21944
+New Hampshire;US;5999;91;0;5908
+New Hampshire;US;13785;164;0;13621
+New Hampshire;US;4767;46;0;4721
+New Hampshire;US;819;8;0;811
+New Hampshire;US;992;1;0;991
+New Jersey;US;18943;418;0;18525
+New Jersey;US;60704;2409;0;58295
+New Jersey;US;28288;667;0;27621
+New Jersey;US;36777;927;0;35850
+New Jersey;US;5508;153;0;5355
+New Jersey;US;11276;272;0;11004
+New Jersey;US;59127;2478;0;56649
+New Jersey;US;19416;453;0;18963
+New Jersey;US;55656;1785;0;53871
+New Jersey;US;5242;144;0;5098
+New Jersey;US;22829;772;0;22057
+New Jersey;US;57400;1812;0;55588
+New Jersey;US;43173;1166;0;42007
+New Jersey;US;28259;1020;0;27239
+New Jersey;US;44163;1538;0;42625
+New Jersey;US;47658;1544;0;46114
+New Jersey;US;3882;125;0;3757
+New Jersey;US;18052;710;0;17342
+New Jersey;US;6753;242;0;6511
+New Jersey;US;1376;0;0;1376
+New Jersey;US;47363;1615;0;45748
+New Jersey;US;5376;189;0;5187
+New Mexico;US;46349;694;0;45655
+New Mexico;US;70;3;0;67
+New Mexico;US;7843;119;0;7724
+New Mexico;US;2491;84;0;2407
+New Mexico;US;632;28;0;604
+New Mexico;US;4525;53;0;4472
+New Mexico;US;120;0;0;120
+New Mexico;US;19852;324;0;19528
+New Mexico;US;5505;90;0;5415
+New Mexico;US;1185;22;0;1163
+New Mexico;US;317;8;0;309
+New Mexico;US;8;0;0;8
+New Mexico;US;287;9;0;278
+New Mexico;US;7513;110;0;7403
+New Mexico;US;1253;13;0;1240
+New Mexico;US;393;1;0;392
+New Mexico;US;2638;52;0;2586
+New Mexico;US;10917;379;0;10538
+New Mexico;US;141;5;0;136
+New Mexico;US;2605;47;0;2558
+New Mexico;US;381;8;0;373
+New Mexico;US;2907;48;0;2859
+New Mexico;US;1695;40;0;1655
+New Mexico;US;12147;328;0;11819
+New Mexico;US;1033;6;0;1027
+New Mexico;US;9523;151;0;9372
+New Mexico;US;8501;95;0;8406
+New Mexico;US;647;40;0;607
+New Mexico;US;1039;46;0;993
+New Mexico;US;1342;42;0;1300
+New Mexico;US;554;8;0;546
+New Mexico;US;3536;0;0;3536
+New Mexico;US;207;7;0;200
+New Mexico;US;5481;72;0;5409
+New York;US;15981;252;0;15729
+New York;US;2328;75;0;2253
+New York;US;103869;5255;0;98614
+New York;US;10866;254;0;10612
+New York;US;3344;60;0;3284
+New York;US;4310;69;0;4241
+New York;US;5460;56;0;5404
+New York;US;5534;107;0;5427
+New York;US;1704;39;0;1665
+New York;US;2091;17;0;2074
+New York;US;2397;69;0;2328
+New York;US;2604;53;0;2551
+New York;US;990;19;0;971
+New York;US;16327;304;0;16023
+New York;US;51384;1360;0;50024
+New York;US;959;16;0;943
+New York;US;1103;9;0;1094
+New York;US;2039;48;0;1991
+New York;US;3630;98;0;3532
+New York;US;1995;57;0;1938
+New York;US;145;1;0;144
+New York;US;3528;51;0;3477
+New York;US;3094;21;0;3073
+New York;US;151971;8037;0;143934
+New York;US;1451;23;0;1428
+New York;US;2645;38;0;2607
+New York;US;3073;75;0;2998
+New York;US;43659;753;0;42906
+New York;US;2167;72;0;2095
+New York;US;112702;2540;0;110162
+New York;US;74452;3434;0;71018
+New York;US;11822;239;0;11583
+New York;US;16502;341;0;16161
+New York;US;27190;524;0;26666
+New York;US;4647;81;0;4566
+New York;US;28386;642;0;27744
+New York;US;1898;68;0;1830
+New York;US;4816;63;0;4753
+New York;US;1623;23;0;1600
+New York;US;0;164;0;-164
+New York;US;6386;74;0;6312
+New York;US;155059;7836;0;147223
+New York;US;6693;102;0;6591
+New York;US;44210;1373;0;42837
+New York;US;31509;806;0;30703
+New York;US;8984;79;0;8905
+New York;US;8480;122;0;8358
+New York;US;882;5;0;877
+New York;US;710;10;0;700
+New York;US;1203;45;0;1158
+New York;US;3496;56;0;3440
+New York;US;4541;131;0;4410
+New York;US;125925;2577;0;123348
+New York;US;3765;48;0;3717
+New York;US;2167;54;0;2113
+New York;US;2613;22;0;2591
+New York;US;7548;189;0;7359
+New York;US;39;101;0;-62
+New York;US;2004;37;0;1967
+New York;US;1438;23;0;1415
+New York;US;3606;50;0;3556
+New York;US;83708;1789;0;81919
+New York;US;2114;41;0;2073
+New York;US;795;16;0;779
+North Carolina;US;12619;169;0;12450
+North Carolina;US;3273;42;0;3231
+North Carolina;US;768;3;0;765
+North Carolina;US;1789;38;0;1751
+North Carolina;US;1562;28;0;1534
+North Carolina;US;1598;16;0;1582
+North Carolina;US;3422;61;0;3361
+North Carolina;US;1419;27;0;1392
+North Carolina;US;2307;28;0;2279
+North Carolina;US;5689;81;0;5608
+North Carolina;US;11912;220;0;11692
+North Carolina;US;7590;90;0;7500
+North Carolina;US;14252;171;0;14081
+North Carolina;US;7255;31;0;7224
+North Carolina;US;414;5;0;409
+North Carolina;US;3403;18;0;3385
+North Carolina;US;1521;10;0;1511
+North Carolina;US;13868;205;0;13663
+North Carolina;US;3345;68;0;3277
+North Carolina;US;1669;16;0;1653
+North Carolina;US;1039;20;0;1019
+North Carolina;US;533;5;0;528
+North Carolina;US;8485;172;0;8313
+North Carolina;US;4548;102;0;4446
+North Carolina;US;6405;89;0;6316
+North Carolina;US;17567;154;0;17413
+North Carolina;US;932;12;0;920
+North Carolina;US;1456;6;0;1450
+North Carolina;US;11401;106;0;11295
+North Carolina;US;2675;15;0;2660
+North Carolina;US;4894;83;0;4811
+North Carolina;US;17626;157;0;17469
+North Carolina;US;3727;87;0;3640
+North Carolina;US;24973;248;0;24725
+North Carolina;US;4059;39;0;4020
+North Carolina;US;19448;280;0;19168
+North Carolina;US;463;12;0;451
+North Carolina;US;495;12;0;483
+North Carolina;US;4335;70;0;4265
+North Carolina;US;1771;34;0;1737
+North Carolina;US;30942;359;0;30583
+North Carolina;US;3772;65;0;3707
+North Carolina;US;7365;105;0;7260
+North Carolina;US;2906;75;0;2831
+North Carolina;US;6901;100;0;6801
+North Carolina;US;1643;53;0;1590
+North Carolina;US;3321;37;0;3284
+North Carolina;US;555;6;0;549
+North Carolina;US;12098;132;0;11966
+North Carolina;US;2745;20;0;2725
+North Carolina;US;14067;130;0;13937
+North Carolina;US;512;16;0;496
+North Carolina;US;4361;46;0;4315
+North Carolina;US;4164;83;0;4081
+North Carolina;US;6980;42;0;6938
+North Carolina;US;1988;12;0;1976
+North Carolina;US;1071;24;0;1047
+North Carolina;US;1704;27;0;1677
+North Carolina;US;3933;39;0;3894
+North Carolina;US;76895;673;0;76222
+North Carolina;US;986;10;0;976
+North Carolina;US;2446;52;0;2394
+North Carolina;US;6181;80;0;6101
+North Carolina;US;7150;126;0;7024
+North Carolina;US;11415;100;0;11315
+North Carolina;US;1325;27;0;1298
+North Carolina;US;11318;90;0;11228
+North Carolina;US;6079;69;0;6010
+North Carolina;US;663;6;0;657
+North Carolina;US;2378;62;0;2316
+North Carolina;US;3538;37;0;3501
+North Carolina;US;689;5;0;684
+North Carolina;US;2190;35;0;2155
+North Carolina;US;13913;69;0;13844
+North Carolina;US;1050;14;0;1036
+North Carolina;US;10002;155;0;9847
+North Carolina;US;3268;58;0;3210
+North Carolina;US;12015;153;0;11862
+North Carolina;US;5682;32;0;5650
+North Carolina;US;11619;215;0;11404
+North Carolina;US;5652;154;0;5498
+North Carolina;US;5732;73;0;5659
+North Carolina;US;2962;61;0;2901
+North Carolina;US;5406;92;0;5314
+North Carolina;US;2679;44;0;2635
+North Carolina;US;5643;97;0;5546
+North Carolina;US;941;8;0;933
+North Carolina;US;1359;13;0;1346
+North Carolina;US;216;4;0;212
+North Carolina;US;1;0;0;1
+North Carolina;US;16184;128;0;16056
+North Carolina;US;3321;73;0;3248
+North Carolina;US;56859;396;0;56463
+North Carolina;US;1279;12;0;1267
+North Carolina;US;655;19;0;636
+North Carolina;US;3118;23;0;3095
+North Carolina;US;8461;168;0;8293
+North Carolina;US;4833;83;0;4750
+North Carolina;US;6799;123;0;6676
+North Carolina;US;2989;33;0;2956
+North Carolina;US;1211;10;0;1201
+North Dakota;US;235;2;0;233
+North Dakota;US;1272;30;0;1242
+North Dakota;US;1015;17;0;998
+North Dakota;US;53;0;0;53
+North Dakota;US;624;20;0;604
+North Dakota;US;334;4;0;330
+North Dakota;US;206;1;0;205
+North Dakota;US;14025;182;0;13843
+North Dakota;US;20633;180;0;20453
+North Dakota;US;412;4;0;408
+North Dakota;US;714;32;0;682
+North Dakota;US;145;2;0;143
+North Dakota;US;360;7;0;353
+North Dakota;US;424;6;0;418
+North Dakota;US;404;11;0;393
+North Dakota;US;540;19;0;521
+North Dakota;US;239;1;0;238
+North Dakota;US;9500;72;0;9428
+North Dakota;US;179;7;0;172
+North Dakota;US;308;2;0;306
+North Dakota;US;277;4;0;273
+North Dakota;US;252;9;0;243
+North Dakota;US;497;17;0;480
+North Dakota;US;218;8;0;210
+North Dakota;US;549;20;0;529
+North Dakota;US;317;7;0;310
+North Dakota;US;1091;11;0;1080
+North Dakota;US;1150;30;0;1120
+North Dakota;US;1035;9;0;1026
+North Dakota;US;4782;92;0;4690
+North Dakota;US;1233;15;0;1218
+North Dakota;US;435;12;0;423
+North Dakota;US;149;2;0;147
+North Dakota;US;712;11;0;701
+North Dakota;US;505;22;0;483
+North Dakota;US;1538;29;0;1509
+North Dakota;US;583;13;0;570
+North Dakota;US;283;13;0;270
+North Dakota;US;1626;15;0;1611
+North Dakota;US;2029;27;0;2002
+North Dakota;US;413;6;0;407
+North Dakota;US;100;2;0;98
+North Dakota;US;635;11;0;624
+North Dakota;US;30;0;0;30
+North Dakota;US;4190;47;0;4143
+North Dakota;US;166;2;0;164
+North Dakota;US;3208;74;0;3134
+North Dakota;US;292;10;0;282
+North Dakota;US;945;18;0;927
+North Dakota;US;0;22;0;-22
+North Dakota;US;1709;23;0;1686
+North Dakota;US;8747;184;0;8563
+North Dakota;US;410;8;0;402
+North Dakota;US;4136;34;0;4102
+Northern Mariana Islands;US;128;2;0;126
+Ohio;US;1656;15;0;1641
+Ohio;US;9511;126;0;9385
+Ohio;US;3317;38;0;3279
+Ohio;US;4390;68;0;4322
+Ohio;US;3636;9;0;3627
+Ohio;US;4127;59;0;4068
+Ohio;US;3956;40;0;3916
+Ohio;US;2966;19;0;2947
+Ohio;US;29721;228;0;29493
+Ohio;US;1495;16;0;1479
+Ohio;US;2409;27;0;2382
+Ohio;US;10608;264;0;10344
+Ohio;US;15160;104;0;15056
+Ohio;US;2790;43;0;2747
+Ohio;US;7085;124;0;6961
+Ohio;US;1974;20;0;1954
+Ohio;US;3132;68;0;3064
+Ohio;US;82178;1012;0;81166
+Ohio;US;4575;89;0;4486
+Ohio;US;3192;78;0;3114
+Ohio;US;13821;77;0;13744
+Ohio;US;5886;118;0;5768
+Ohio;US;12184;80;0;12104
+Ohio;US;2255;29;0;2226
+Ohio;US;97493;705;0;96788
+Ohio;US;3259;43;0;3216
+Ohio;US;1909;26;0;1883
+Ohio;US;4835;55;0;4780
+Ohio;US;11631;133;0;11498
+Ohio;US;2417;25;0;2392
+Ohio;US;61350;439;0;60911
+Ohio;US;5378;90;0;5288
+Ohio;US;2041;33;0;2008
+Ohio;US;856;8;0;848
+Ohio;US;2102;47;0;2055
+Ohio;US;2624;18;0;2606
+Ohio;US;1634;23;0;1611
+Ohio;US;2186;62;0;2124
+Ohio;US;4103;38;0;4065
+Ohio;US;2569;43;0;2526
+Ohio;US;4033;66;0;3967
+Ohio;US;3365;22;0;3343
+Ohio;US;15365;135;0;15230
+Ohio;US;4326;51;0;4275
+Ohio;US;12679;132;0;12547
+Ohio;US;2927;29;0;2898
+Ohio;US;18086;212;0;17874
+Ohio;US;30111;597;0;29514
+Ohio;US;3393;29;0;3364
+Ohio;US;16758;335;0;16423
+Ohio;US;7319;113;0;7206
+Ohio;US;11128;165;0;10963
+Ohio;US;1032;21;0;1011
+Ohio;US;4242;87;0;4155
+Ohio;US;8865;73;0;8792
+Ohio;US;956;29;0;927
+Ohio;US;41700;399;0;41301
+Ohio;US;791;28;0;763
+Ohio;US;2229;4;0;2225
+Ohio;US;6712;42;0;6670
+Ohio;US;1178;40;0;1138
+Ohio;US;2821;34;0;2787
+Ohio;US;1390;21;0;1369
+Ohio;US;2213;18;0;2195
+Ohio;US;7028;50;0;6978
+Ohio;US;1641;16;0;1625
+Ohio;US;8867;105;0;8762
+Ohio;US;3115;34;0;3081
+Ohio;US;3646;72;0;3574
+Ohio;US;8790;116;0;8674
+Ohio;US;5302;87;0;5215
+Ohio;US;4218;62;0;4156
+Ohio;US;5196;62;0;5134
+Ohio;US;4135;55;0;4080
+Ohio;US;4102;21;0;4081
+Ohio;US;24811;400;0;24411
+Ohio;US;33399;726;0;32673
+Ohio;US;12401;302;0;12099
+Ohio;US;7142;174;0;6968
+Ohio;US;0;0;0;0
+Ohio;US;4306;28;0;4278
+Ohio;US;1966;44;0;1922
+Ohio;US;671;13;0;658
+Ohio;US;18917;139;0;18778
+Ohio;US;3720;40;0;3680
+Ohio;US;6781;164;0;6617
+Ohio;US;2701;66;0;2635
+Ohio;US;9964;154;0;9810
+Ohio;US;1905;49;0;1856
+Oklahoma;US;2520;17;0;2503
+Oklahoma;US;1040;5;0;1035
+Oklahoma;US;1551;6;0;1545
+Oklahoma;US;351;3;0;348
+Oklahoma;US;2315;26;0;2289
+Oklahoma;US;800;4;0;796
+Oklahoma;US;4837;44;0;4793
+Oklahoma;US;3301;42;0;3259
+Oklahoma;US;13134;58;0;13076
+Oklahoma;US;4438;20;0;4418
+Oklahoma;US;4704;25;0;4679
+Oklahoma;US;1342;8;0;1334
+Oklahoma;US;117;1;0;116
+Oklahoma;US;23695;190;0;23505
+Oklahoma;US;582;7;0;575
+Oklahoma;US;8784;87;0;8697
+Oklahoma;US;528;12;0;516
+Oklahoma;US;1710;7;0;1703
+Oklahoma;US;5132;79;0;5053
+Oklahoma;US;3544;39;0;3505
+Oklahoma;US;3770;46;0;3724
+Oklahoma;US;479;4;0;475
+Oklahoma;US;328;1;0;327
+Oklahoma;US;6354;51;0;6303
+Oklahoma;US;2936;23;0;2913
+Oklahoma;US;4817;44;0;4773
+Oklahoma;US;452;5;0;447
+Oklahoma;US;433;10;0;423
+Oklahoma;US;246;1;0;245
+Oklahoma;US;377;3;0;374
+Oklahoma;US;1040;7;0;1033
+Oklahoma;US;974;12;0;962
+Oklahoma;US;2598;39;0;2559
+Oklahoma;US;581;4;0;577
+Oklahoma;US;1097;12;0;1085
+Oklahoma;US;4235;48;0;4187
+Oklahoma;US;1725;15;0;1710
+Oklahoma;US;657;12;0;645
+Oklahoma;US;663;7;0;656
+Oklahoma;US;4441;34;0;4407
+Oklahoma;US;2575;37;0;2538
+Oklahoma;US;3298;16;0;3282
+Oklahoma;US;1230;8;0;1222
+Oklahoma;US;826;4;0;822
+Oklahoma;US;1522;8;0;1514
+Oklahoma;US;3191;27;0;3164
+Oklahoma;US;4291;32;0;4259
+Oklahoma;US;3271;57;0;3214
+Oklahoma;US;1634;22;0;1612
+Oklahoma;US;1535;12;0;1523
+Oklahoma;US;7840;58;0;7782
+Oklahoma;US;1154;7;0;1147
+Oklahoma;US;902;11;0;891
+Oklahoma;US;1578;16;0;1562
+Oklahoma;US;68940;500;0;68440
+Oklahoma;US;3087;34;0;3053
+Oklahoma;US;3716;34;0;3682
+Oklahoma;US;3219;32;0;3187
+Oklahoma;US;0;0;0;0
+Oklahoma;US;1346;17;0;1329
+Oklahoma;US;7149;35;0;7114
+Oklahoma;US;3722;25;0;3697
+Oklahoma;US;3943;31;0;3912
+Oklahoma;US;6670;45;0;6625
+Oklahoma;US;839;8;0;831
+Oklahoma;US;343;6;0;337
+Oklahoma;US;8204;91;0;8113
+Oklahoma;US;2278;24;0;2254
+Oklahoma;US;3239;23;0;3216
+Oklahoma;US;3849;34;0;3815
+Oklahoma;US;3239;18;0;3221
+Oklahoma;US;650;11;0;639
+Oklahoma;US;58126;496;0;57630
+Oklahoma;US;144;0;0;144
+Oklahoma;US;6142;62;0;6080
+Oklahoma;US;3830;67;0;3763
+Oklahoma;US;935;5;0;930
+Oklahoma;US;1101;5;0;1096
+Oklahoma;US;2793;11;0;2782
+Oregon;US;568;5;0;563
+Oregon;US;1695;14;0;1681
+Oregon;US;11642;138;0;11504
+Oregon;US;686;5;0;681
+Oregon;US;1043;18;0;1025
+Oregon;US;937;15;0;922
+Oregon;US;610;10;0;600
+Oregon;US;324;5;0;319
+Oregon;US;4952;36;0;4916
+Oregon;US;1677;43;0;1634
+Oregon;US;51;1;0;50
+Oregon;US;213;1;0;212
+Oregon;US;175;4;0;171
+Oregon;US;951;21;0;930
+Oregon;US;6892;85;0;6807
+Oregon;US;1702;25;0;1677
+Oregon;US;1735;33;0;1702
+Oregon;US;2428;38;0;2390
+Oregon;US;230;5;0;225
+Oregon;US;8272;108;0;8164
+Oregon;US;991;17;0;974
+Oregon;US;3108;46;0;3062
+Oregon;US;3131;52;0;3079
+Oregon;US;16172;238;0;15934
+Oregon;US;933;10;0;923
+Oregon;US;28337;458;0;27879
+Oregon;US;2446;40;0;2406
+Oregon;US;47;0;0;47
+Oregon;US;365;2;0;363
+Oregon;US;6765;68;0;6697
+Oregon;US;0;0;0;0
+Oregon;US;1114;16;0;1098
+Oregon;US;96;3;0;93
+Oregon;US;1071;23;0;1048
+Oregon;US;18644;171;0;18473
+Oregon;US;20;1;0;19
+Oregon;US;3182;45;0;3137
+Pennsylvania;US;5830;124;0;5706
+Pennsylvania;US;64400;1334;0;63066
+Pennsylvania;US;4290;90;0;4200
+Pennsylvania;US;10233;294;0;9939
+Pennsylvania;US;3408;110;0;3298
+Pennsylvania;US;28578;687;0;27891
+Pennsylvania;US;9322;212;0;9110
+Pennsylvania;US;3608;63;0;3545
+Pennsylvania;US;36293;970;0;35323
+Pennsylvania;US;11699;289;0;11410
+Pennsylvania;US;10141;331;0;9810
+Pennsylvania;US;211;6;0;205
+Pennsylvania;US;3861;108;0;3753
+Pennsylvania;US;10182;171;0;10011
+Pennsylvania;US;23060;572;0;22488
+Pennsylvania;US;2337;58;0;2279
+Pennsylvania;US;5104;70;0;5034
+Pennsylvania;US;2347;42;0;2305
+Pennsylvania;US;3727;99;0;3628
+Pennsylvania;US;5565;113;0;5452
+Pennsylvania;US;12636;368;0;12268
+Pennsylvania;US;16451;390;0;16061
+Pennsylvania;US;34398;1057;0;33341
+Pennsylvania;US;1938;27;0;1911
+Pennsylvania;US;14111;296;0;13815
+Pennsylvania;US;9019;179;0;8840
+Pennsylvania;US;587;9;0;578
+Pennsylvania;US;10607;277;0;10330
+Pennsylvania;US;923;12;0;911
+Pennsylvania;US;2178;26;0;2152
+Pennsylvania;US;3591;97;0;3494
+Pennsylvania;US;4496;140;0;4356
+Pennsylvania;US;2272;61;0;2211
+Pennsylvania;US;1580;71;0;1509
+Pennsylvania;US;11121;302;0;10819
+Pennsylvania;US;33978;837;0;33141
+Pennsylvania;US;5065;149;0;4916
+Pennsylvania;US;10737;193;0;10544
+Pennsylvania;US;25438;606;0;24832
+Pennsylvania;US;20696;540;0;20156
+Pennsylvania;US;7375;179;0;7196
+Pennsylvania;US;2267;47;0;2220
+Pennsylvania;US;6996;192;0;6804
+Pennsylvania;US;4002;136;0;3866
+Pennsylvania;US;7709;229;0;7480
+Pennsylvania;US;43690;1296;0;42394
+Pennsylvania;US;1522;37;0;1485
+Pennsylvania;US;20611;510;0;20101
+Pennsylvania;US;6134;267;0;5867
+Pennsylvania;US;2202;60;0;2142
+Pennsylvania;US;102837;2722;0;100115
+Pennsylvania;US;1863;38;0;1825
+Pennsylvania;US;769;17;0;752
+Pennsylvania;US;10166;298;0;9868
+Pennsylvania;US;2314;57;0;2257
+Pennsylvania;US;5964;143;0;5821
+Pennsylvania;US;217;7;0;210
+Pennsylvania;US;1320;43;0;1277
+Pennsylvania;US;2143;86;0;2057
+Pennsylvania;US;0;0;0;0
+Pennsylvania;US;3667;61;0;3606
+Pennsylvania;US;2907;63;0;2844
+Pennsylvania;US;1849;70;0;1779
+Pennsylvania;US;11384;170;0;11214
+Pennsylvania;US;2432;35;0;2397
+Pennsylvania;US;23173;533;0;22640
+Pennsylvania;US;966;34;0;932
+Pennsylvania;US;28488;545;0;27943
+Puerto Rico;US;354;0;0;354
+Puerto Rico;US;814;0;0;814
+Puerto Rico;US;966;0;0;966
+Puerto Rico;US;723;0;0;723
+Puerto Rico;US;349;0;0;349
+Puerto Rico;US;537;0;0;537
+Puerto Rico;US;2016;0;0;2016
+Puerto Rico;US;171;0;0;171
+Puerto Rico;US;478;0;0;478
+Puerto Rico;US;687;0;0;687
+Puerto Rico;US;6693;0;0;6693
+Puerto Rico;US;454;0;0;454
+Puerto Rico;US;3969;0;0;3969
+Puerto Rico;US;770;0;0;770
+Puerto Rico;US;1162;0;0;1162
+Puerto Rico;US;5542;0;0;5542
+Puerto Rico;US;796;0;0;796
+Puerto Rico;US;815;0;0;815
+Puerto Rico;US;215;0;0;215
+Puerto Rico;US;488;0;0;488
+Puerto Rico;US;864;0;0;864
+Puerto Rico;US;577;0;0;577
+Puerto Rico;US;489;0;0;489
+Puerto Rico;US;1010;0;0;1010
+Puerto Rico;US;23;0;0;23
+Puerto Rico;US;1341;0;0;1341
+Puerto Rico;US;725;0;0;725
+Puerto Rico;US;346;0;0;346
+Puerto Rico;US;125;0;0;125
+Puerto Rico;US;472;0;0;472
+Puerto Rico;US;185;0;0;185
+Puerto Rico;US;2917;0;0;2917
+Puerto Rico;US;1243;0;0;1243
+Puerto Rico;US;698;0;0;698
+Puerto Rico;US;255;0;0;255
+Puerto Rico;US;1010;0;0;1010
+Puerto Rico;US;832;0;0;832
+Puerto Rico;US;155;0;0;155
+Puerto Rico;US;691;0;0;691
+Puerto Rico;US;1225;0;0;1225
+Puerto Rico;US;178;0;0;178
+Puerto Rico;US;470;0;0;470
+Puerto Rico;US;115;0;0;115
+Puerto Rico;US;887;0;0;887
+Puerto Rico;US;695;0;0;695
+Puerto Rico;US;397;0;0;397
+Puerto Rico;US;961;0;0;961
+Puerto Rico;US;55;0;0;55
+Puerto Rico;US;191;0;0;191
+Puerto Rico;US;1107;0;0;1107
+Puerto Rico;US;966;0;0;966
+Puerto Rico;US;933;0;0;933
+Puerto Rico;US;540;0;0;540
+Puerto Rico;US;984;0;0;984
+Puerto Rico;US;505;0;0;505
+Puerto Rico;US;216;0;0;216
+Puerto Rico;US;195;0;0;195
+Puerto Rico;US;336;0;0;336
+Puerto Rico;US;1856;0;0;1856
+Puerto Rico;US;506;0;0;506
+Puerto Rico;US;269;0;0;269
+Puerto Rico;US;1160;0;0;1160
+Puerto Rico;US;203;0;0;203
+Puerto Rico;US;494;0;0;494
+Puerto Rico;US;341;0;0;341
+Puerto Rico;US;12330;0;0;12330
+Puerto Rico;US;1054;0;0;1054
+Puerto Rico;US;896;0;0;896
+Puerto Rico;US;275;0;0;275
+Puerto Rico;US;2491;0;0;2491
+Puerto Rico;US;2517;0;0;2517
+Puerto Rico;US;1951;0;0;1951
+Puerto Rico;US;2645;1703;0;942
+Puerto Rico;US;617;0;0;617
+Puerto Rico;US;1159;0;0;1159
+Puerto Rico;US;1943;0;0;1943
+Puerto Rico;US;110;0;0;110
+Puerto Rico;US;526;0;0;526
+Puerto Rico;US;616;0;0;616
+Puerto Rico;US;509;0;0;509
+Recovered;US;0;0;0;0
+Rhode Island;US;3251;78;0;3173
+Rhode Island;US;11802;227;0;11575
+Rhode Island;US;3578;12;0;3566
+Rhode Island;US;67526;1480;0;66046
+Rhode Island;US;12765;82;0;12683
+Rhode Island;US;5521;126;0;5395
+South Carolina;US;1495;27;0;1468
+South Carolina;US;11139;153;0;10986
+South Carolina;US;625;11;0;614
+South Carolina;US;15353;327;0;15026
+South Carolina;US;1121;43;0;1078
+South Carolina;US;1841;39;0;1802
+South Carolina;US;11691;126;0;11565
+South Carolina;US;11182;121;0;11061
+South Carolina;US;997;25;0;972
+South Carolina;US;29043;352;0;28691
+South Carolina;US;3744;96;0;3648
+South Carolina;US;2809;48;0;2761
+South Carolina;US;2933;70;0;2863
+South Carolina;US;2215;81;0;2134
+South Carolina;US;2464;66;0;2398
+South Carolina;US;6029;112;0;5917
+South Carolina;US;3139;65;0;3074
+South Carolina;US;10801;132;0;10669
+South Carolina;US;1933;27;0;1906
+South Carolina;US;1671;58;0;1613
+South Carolina;US;13639;313;0;13326
+South Carolina;US;4919;103;0;4816
+South Carolina;US;48934;625;0;48309
+South Carolina;US;5332;110;0;5222
+South Carolina;US;1331;38;0;1293
+South Carolina;US;25610;385;0;25225
+South Carolina;US;1648;28;0;1620
+South Carolina;US;4854;87;0;4767
+South Carolina;US;6789;103;0;6686
+South Carolina;US;4713;106;0;4607
+South Carolina;US;1442;44;0;1398
+South Carolina;US;21739;321;0;21418
+South Carolina;US;2624;82;0;2542
+South Carolina;US;2343;35;0;2308
+South Carolina;US;583;11;0;572
+South Carolina;US;3435;76;0;3359
+South Carolina;US;6659;81;0;6578
+South Carolina;US;6578;165;0;6413
+South Carolina;US;13302;186;0;13116
+South Carolina;US;31831;377;0;31454
+South Carolina;US;1181;30;0;1151
+South Carolina;US;25167;494;0;24673
+South Carolina;US;6986;132;0;6854
+South Carolina;US;0;0;0;0
+South Carolina;US;1860;53;0;1807
+South Carolina;US;2905;69;0;2836
+South Carolina;US;19555;204;0;19351
+South Dakota;US;436;11;0;425
+South Dakota;US;2576;38;0;2538
+South Dakota;US;372;8;0;364
+South Dakota;US;1502;23;0;1479
+South Dakota;US;3299;32;0;3267
+South Dakota;US;4769;75;0;4694
+South Dakota;US;671;7;0;664
+South Dakota;US;415;12;0;403
+South Dakota;US;939;20;0;919
+South Dakota;US;116;4;0;112
+South Dakota;US;1182;14;0;1168
+South Dakota;US;324;4;0;320
+South Dakota;US;1720;13;0;1707
+South Dakota;US;3661;73;0;3588
+South Dakota;US;457;11;0;446
+South Dakota;US;711;10;0;701
+South Dakota;US;2847;55;0;2792
+South Dakota;US;581;23;0;558
+South Dakota;US;449;7;0;442
+South Dakota;US;1368;17;0;1351
+South Dakota;US;405;9;0;396
+South Dakota;US;437;5;0;432
+South Dakota;US;483;13;0;470
+South Dakota;US;321;13;0;308
+South Dakota;US;864;35;0;829
+South Dakota;US;493;26;0;467
+South Dakota;US;239;9;0;230
+South Dakota;US;650;38;0;612
+South Dakota;US;321;4;0;317
+South Dakota;US;325;3;0;322
+South Dakota;US;89;1;0;88
+South Dakota;US;2125;30;0;2095
+South Dakota;US;735;22;0;713
+South Dakota;US;134;1;0;133
+South Dakota;US;269;13;0;256
+South Dakota;US;265;16;0;249
+South Dakota;US;75;0;0;75
+South Dakota;US;586;13;0;573
+South Dakota;US;1097;16;0;1081
+South Dakota;US;2704;35;0;2669
+South Dakota;US;7231;70;0;7161
+South Dakota;US;573;9;0;564
+South Dakota;US;277;5;0;272
+South Dakota;US;709;22;0;687
+South Dakota;US;221;4;0;217
+South Dakota;US;2411;26;0;2385
+South Dakota;US;232;2;0;230
+South Dakota;US;253;7;0;246
+South Dakota;US;26399;296;0;26103
+South Dakota;US;582;15;0;567
+South Dakota;US;2005;39;0;1966
+South Dakota;US;12043;158;0;11885
+South Dakota;US;315;11;0;304
+South Dakota;US;338;3;0;335
+South Dakota;US;1079;32;0;1047
+South Dakota;US;323;3;0;320
+South Dakota;US;741;24;0;717
+South Dakota;US;303;2;0;301
+South Dakota;US;129;3;0;126
+South Dakota;US;1191;20;0;1171
+South Dakota;US;645;14;0;631
+South Dakota;US;1022;49;0;973
+South Dakota;US;0;0;0;0
+South Dakota;US;1806;34;0;1772
+South Dakota;US;684;14;0;670
+South Dakota;US;2686;27;0;2659
+South Dakota;US;334;8;0;326
+Tennessee;US;6759;102;0;6657
+Tennessee;US;5320;86;0;5234
+Tennessee;US;1319;35;0;1284
+Tennessee;US;1741;10;0;1731
+Tennessee;US;11887;124;0;11763
+Tennessee;US;10751;90;0;10661
+Tennessee;US;3239;40;0;3199
+Tennessee;US;1570;19;0;1551
+Tennessee;US;3078;59;0;3019
+Tennessee;US;5091;112;0;4979
+Tennessee;US;3352;30;0;3322
+Tennessee;US;1732;37;0;1695
+Tennessee;US;2101;29;0;2072
+Tennessee;US;937;26;0;911
+Tennessee;US;3428;56;0;3372
+Tennessee;US;5606;81;0;5525
+Tennessee;US;1803;38;0;1765
+Tennessee;US;5378;72;0;5306
+Tennessee;US;70706;661;0;70045
+Tennessee;US;2417;41;0;2376
+Tennessee;US;1472;26;0;1446
+Tennessee;US;5346;78;0;5268
+Tennessee;US;4736;82;0;4654
+Tennessee;US;3962;51;0;3911
+Tennessee;US;2125;31;0;2094
+Tennessee;US;4107;58;0;4049
+Tennessee;US;5630;111;0;5519
+Tennessee;US;3210;71;0;3139
+Tennessee;US;2081;35;0;2046
+Tennessee;US;6569;108;0;6461
+Tennessee;US;1393;20;0;1373
+Tennessee;US;6954;109;0;6845
+Tennessee;US;34556;326;0;34230
+Tennessee;US;402;6;0;396
+Tennessee;US;3087;52;0;3035
+Tennessee;US;2976;47;0;2929
+Tennessee;US;4449;68;0;4381
+Tennessee;US;2397;45;0;2352
+Tennessee;US;3320;56;0;3264
+Tennessee;US;2603;58;0;2545
+Tennessee;US;2227;34;0;2193
+Tennessee;US;939;22;0;917
+Tennessee;US;1326;17;0;1309
+Tennessee;US;1037;21;0;1016
+Tennessee;US;4749;75;0;4674
+Tennessee;US;2015;32;0;1983
+Tennessee;US;38646;393;0;38253
+Tennessee;US;1553;19;0;1534
+Tennessee;US;2931;31;0;2900
+Tennessee;US;5075;69;0;5006
+Tennessee;US;1272;20;0;1252
+Tennessee;US;3783;44;0;3739
+Tennessee;US;4937;50;0;4887
+Tennessee;US;2873;50;0;2823
+Tennessee;US;9099;178;0;8921
+Tennessee;US;2277;31;0;2246
+Tennessee;US;3435;36;0;3399
+Tennessee;US;10941;123;0;10818
+Tennessee;US;5066;73;0;4993
+Tennessee;US;2381;42;0;2339
+Tennessee;US;1140;16;0;1124
+Tennessee;US;4551;62;0;4489
+Tennessee;US;14367;149;0;14218
+Tennessee;US;795;9;0;786
+Tennessee;US;1886;14;0;1872
+Tennessee;US;3994;78;0;3916
+Tennessee;US;16120;79;0;16041
+Tennessee;US;2529;42;0;2487
+Tennessee;US;947;25;0;922
+Tennessee;US;676;19;0;657
+Tennessee;US;1428;17;0;1411
+Tennessee;US;9931;136;0;9795
+Tennessee;US;3815;56;0;3759
+Tennessee;US;5191;79;0;5112
+Tennessee;US;7618;85;0;7533
+Tennessee;US;33114;283;0;32831
+Tennessee;US;2252;31;0;2221
+Tennessee;US;1365;18;0;1347
+Tennessee;US;10461;108;0;10353
+Tennessee;US;76167;1128;0;75039
+Tennessee;US;2305;27;0;2278
+Tennessee;US;1052;20;0;1032
+Tennessee;US;12577;211;0;12366
+Tennessee;US;18205;230;0;17975
+Tennessee;US;6190;65;0;6125
+Tennessee;US;2287;14;0;2273
+Tennessee;US;22759;126;0;22633
+Tennessee;US;1668;43;0;1625
+Tennessee;US;1387;21;0;1366
+Tennessee;US;658;7;0;651
+Tennessee;US;4975;53;0;4922
+Tennessee;US;11889;191;0;11698
+Tennessee;US;2607;19;0;2588
+Tennessee;US;3394;48;0;3346
+Tennessee;US;3100;43;0;3057
+Tennessee;US;21364;138;0;21226
+Tennessee;US;14405;155;0;14250
+Texas;US;5575;74;0;5501
+Texas;US;1606;36;0;1570
+Texas;US;6552;191;0;6361
+Texas;US;893;26;0;867
+Texas;US;694;8;0;686
+Texas;US;126;6;0;120
+Texas;US;3781;87;0;3694
+Texas;US;1368;17;0;1351
+Texas;US;741;14;0;727
+Texas;US;820;20;0;800
+Texas;US;4361;55;0;4306
+Texas;US;274;9;0;265
+Texas;US;3060;53;0;3007
+Texas;US;16512;208;0;16304
+Texas;US;148555;2019;0;146536
+Texas;US;318;11;0;307
+Texas;US;18;0;0;18
+Texas;US;984;20;0;964
+Texas;US;4779;138;0;4641
+Texas;US;25789;275;0;25514
+Texas;US;16860;161;0;16699
+Texas;US;939;8;0;931
+Texas;US;113;3;0;110
+Texas;US;683;29;0;654
+Texas;US;3382;81;0;3301
+Texas;US;1092;22;0;1070
+Texas;US;2193;34;0;2159
+Texas;US;2726;55;0;2671
+Texas;US;1361;12;0;1349
+Texas;US;931;27;0;904
+Texas;US;32698;1222;0;31476
+Texas;US;961;32;0;929
+Texas;US;330;11;0;319
+Texas;US;1476;58;0;1418
+Texas;US;831;22;0;809
+Texas;US;3431;13;0;3418
+Texas;US;3491;88;0;3403
+Texas;US;1284;13;0;1271
+Texas;US;874;13;0;861
+Texas;US;215;12;0;203
+Texas;US;426;10;0;416
+Texas;US;579;20;0;559
+Texas;US;63239;472;0;62767
+Texas;US;236;8;0;228
+Texas;US;1235;17;0;1218
+Texas;US;7314;186;0;7128
+Texas;US;1118;36;0;1082
+Texas;US;245;4;0;241
+Texas;US;2806;45;0;2761
+Texas;US;4313;42;0;4271
+Texas;US;176;7;0;169
+Texas;US;482;11;0;471
+Texas;US;468;13;0;455
+Texas;US;380;22;0;358
+Texas;US;293;4;0;289
+Texas;US;465;20;0;445
+Texas;US;234625;2425;0;232200
+Texas;US;1575;59;0;1516
+Texas;US;1553;50;0;1503
+Texas;US;2416;60;0;2356
+Texas;US;208;5;0;203
+Texas;US;46272;433;0;45839
+Texas;US;135;7;0;128
+Texas;US;904;13;0;891
+Texas;US;281;7;0;274
+Texas;US;1053;32;0;1021
+Texas;US;972;23;0;949
+Texas;US;12222;267;0;11955
+Texas;US;207;3;0;204
+Texas;US;106677;1935;0;104742
+Texas;US;16403;199;0;16204
+Texas;US;3470;42;0;3428
+Texas;US;1308;22;0;1286
+Texas;US;2439;66;0;2373
+Texas;US;1431;43;0;1388
+Texas;US;266;10;0;256
+Texas;US;628;25;0;603
+Texas;US;91;5;0;86
+Texas;US;43662;436;0;43226
+Texas;US;558;15;0;543
+Texas;US;988;29;0;959
+Texas;US;2148;23;0;2125
+Texas;US;1302;36;0;1266
+Texas;US;26898;248;0;26650
+Texas;US;277;18;0;259
+Texas;US;1830;31;0;1799
+Texas;US;94;1;0;93
+Texas;US;299;9;0;290
+Texas;US;1962;29;0;1933
+Texas;US;1748;40;0;1708
+Texas;US;8766;220;0;8546
+Texas;US;8451;217;0;8234
+Texas;US;1960;51;0;1909
+Texas;US;9123;126;0;8997
+Texas;US;5636;134;0;5502
+Texas;US;339;11;0;328
+Texas;US;546;21;0;525
+Texas;US;671;17;0;654
+Texas;US;319;9;0;310
+Texas;US;4080;68;0;4012
+Texas;US;284917;3792;0;281125
+Texas;US;3485;70;0;3415
+Texas;US;316;1;0;315
+Texas;US;355;14;0;341
+Texas;US;14460;154;0;14306
+Texas;US;446;2;0;444
+Texas;US;4434;100;0;4334
+Texas;US;57337;2293;0;55044
+Texas;US;2397;46;0;2351
+Texas;US;2039;91;0;1948
+Texas;US;5050;85;0;4965
+Texas;US;2508;85;0;2423
+Texas;US;1335;29;0;1306
+Texas;US;4170;77;0;4093
+Texas;US;487;8;0;479
+Texas;US;4557;101;0;4456
+Texas;US;1252;57;0;1195
+Texas;US;79;1;0;78
+Texas;US;530;12;0;518
+Texas;US;1284;23;0;1261
+Texas;US;1933;48;0;1885
+Texas;US;116;1;0;115
+Texas;US;15897;261;0;15636
+Texas;US;486;11;0;475
+Texas;US;3406;70;0;3336
+Texas;US;14435;207;0;14228
+Texas;US;2508;35;0;2473
+Texas;US;1387;26;0;1361
+Texas;US;11450;150;0;11300
+Texas;US;1890;42;0;1848
+Texas;US;30;2;0;28
+Texas;US;68;1;0;67
+Texas;US;3020;60;0;2960
+Texas;US;221;6;0;215
+Texas;US;11;0;0;11
+Texas;US;258;3;0;255
+Texas;US;1974;63;0;1911
+Texas;US;207;12;0;195
+Texas;US;817;15;0;802
+Texas;US;4925;109;0;4816
+Texas;US;1799;73;0;1726
+Texas;US;908;17;0;891
+Texas;US;1862;62;0;1800
+Texas;US;1180;34;0;1146
+Texas;US;869;28;0;841
+Texas;US;5044;110;0;4934
+Texas;US;1417;33;0;1384
+Texas;US;245;10;0;235
+Texas;US;967;16;0;951
+Texas;US;805;29;0;776
+Texas;US;1;0;0;1
+Texas;US;45308;640;0;44668
+Texas;US;571;17;0;554
+Texas;US;1158;19;0;1139
+Texas;US;391;20;0;371
+Texas;US;579;17;0;562
+Texas;US;335;4;0;331
+Texas;US;2549;72;0;2477
+Texas;US;8189;222;0;7967
+Texas;US;463;12;0;451
+Texas;US;21894;339;0;21555
+Texas;US;70;2;0;68
+Texas;US;3253;61;0;3192
+Texas;US;180;5;0;175
+Texas;US;13334;202;0;13132
+Texas;US;1577;18;0;1559
+Texas;US;344;15;0;329
+Texas;US;535;20;0;515
+Texas;US;1713;45;0;1668
+Texas;US;33006;321;0;32685
+Texas;US;2115;56;0;2059
+Texas;US;663;15;0;648
+Texas;US;79;6;0;73
+Texas;US;3469;110;0;3359
+Texas;US;4798;70;0;4728
+Texas;US;460;19;0;441
+Texas;US;1399;38;0;1361
+Texas;US;32850;608;0;32242
+Texas;US;965;19;0;946
+Texas;US;167;2;0;165
+Texas;US;5948;79;0;5869
+Texas;US;2298;48;0;2250
+Texas;US;1207;49;0;1158
+Texas;US;11314;114;0;11200
+Texas;US;1112;32;0;1080
+Texas;US;1379;26;0;1353
+Texas;US;2450;69;0;2381
+Texas;US;15947;333;0;15614
+Texas;US;627;19;0;608
+Texas;US;632;19;0;613
+Texas;US;15104;203;0;14901
+Texas;US;357;7;0;350
+Texas;US;263;12;0;251
+Texas;US;541;31;0;510
+Texas;US;1518;33;0;1485
+Texas;US;536;17;0;519
+Texas;US;48;1;0;47
+Texas;US;1069;24;0;1045
+Texas;US;8222;74;0;8148
+Texas;US;1085;25;0;1060
+Texas;US;2964;63;0;2901
+Texas;US;446;25;0;421
+Texas;US;489;26;0;463
+Texas;US;606;21;0;585
+Texas;US;3450;111;0;3339
+Texas;US;484;15;0;469
+Texas;US;184;6;0;178
+Texas;US;2270;46;0;2224
+Texas;US;187;1;0;186
+Texas;US;1258;45;0;1213
+Texas;US;117;11;0;106
+Texas;US;15406;307;0;15099
+Texas;US;883;8;0;875
+Texas;US;7433;213;0;7220
+Texas;US;632;19;0;613
+Texas;US;96;4;0;92
+Texas;US;134;3;0;131
+Texas;US;398;6;0;392
+Texas;US;678;14;0;664
+Texas;US;190886;1825;0;189061
+Texas;US;13133;260;0;12873
+Texas;US;72;1;0;71
+Texas;US;1475;46;0;1429
+Texas;US;56;3;0;53
+Texas;US;3107;55;0;3052
+Texas;US;14743;201;0;14542
+Texas;US;60782;614;0;60168
+Texas;US;488;12;0;476
+Texas;US;982;19;0;963
+Texas;US;0;0;0;0
+Texas;US;2540;40;0;2500
+Texas;US;286;7;0;279
+Texas;US;2590;47;0;2543
+Texas;US;6331;157;0;6174
+Texas;US;3154;76;0;3078
+Texas;US;6672;134;0;6538
+Texas;US;6900;93;0;6807
+Texas;US;2585;26;0;2559
+Texas;US;933;13;0;920
+Texas;US;1665;69;0;1596
+Texas;US;34322;506;0;33816
+Texas;US;2956;83;0;2873
+Texas;US;427;9;0;418
+Texas;US;13179;258;0;12921
+Texas;US;1707;41;0;1666
+Texas;US;1949;69;0;1880
+Texas;US;29796;263;0;29533
+Texas;US;2790;40;0;2750
+Texas;US;634;15;0;619
+Texas;US;5384;82;0;5302
+Texas;US;2553;85;0;2468
+Texas;US;801;23;0;778
+Texas;US;1685;32;0;1653
+Texas;US;1335;20;0;1315
+Texas;US;1208;28;0;1180
+Utah;US;17376;51;0;17325
+Utah;US;7190;40;0;7150
+Utah;US;29666;108;0;29558
+Utah;US;122400;623;0;121777
+Utah;US;1662;35;0;1627
+Utah;US;2390;14;0;2376
+Utah;US;22676;183;0;22493
+Utah;US;4146;6;0;4140
+Utah;US;5513;17;0;5496
+Utah;US;2935;25;0;2910
+Utah;US;668;0;0;668
+Utah;US;79143;247;0;78896
+Utah;US;3736;16;0;3720
+Utah;US;24336;128;0;24208
+Vermont;US;515;5;0;510
+Vermont;US;756;3;0;753
+Vermont;US;302;4;0;298
+Vermont;US;3536;78;0;3458
+Vermont;US;110;0;0;110
+Vermont;US;667;33;0;634
+Vermont;US;78;0;0;78
+Vermont;US;302;1;0;301
+Vermont;US;385;1;0;384
+Vermont;US;321;5;0;316
+Vermont;US;653;9;0;644
+Vermont;US;9;0;0;9
+Vermont;US;1017;11;0;1006
+Vermont;US;697;9;0;688
+Vermont;US;709;4;0;705
+Virgin Islands;US;2260;24;0;2236
+Virginia;US;2140;31;0;2109
+Virginia;US;3518;34;0;3484
+Virginia;US;8612;95;0;8517
+Virginia;US;1000;27;0;973
+Virginia;US;538;7;0;531
+Virginia;US;1991;10;0;1981
+Virginia;US;1057;7;0;1050
+Virginia;US;10677;188;0;10489
+Virginia;US;4323;41;0;4282
+Virginia;US;229;0;0;229
+Virginia;US;4391;33;0;4358
+Virginia;US;572;7;0;565
+Virginia;US;1657;18;0;1639
+Virginia;US;1123;20;0;1103
+Virginia;US;916;7;0;909
+Virginia;US;998;25;0;973
+Virginia;US;1633;13;0;1620
+Virginia;US;636;8;0;628
+Virginia;US;3019;27;0;2992
+Virginia;US;1318;12;0;1306
+Virginia;US;1835;44;0;1791
+Virginia;US;290;9;0;281
+Virginia;US;504;10;0;494
+Virginia;US;2560;35;0;2525
+Virginia;US;12297;113;0;12184
+Virginia;US;16327;193;0;16134
+Virginia;US;511;7;0;504
+Virginia;US;853;30;0;823
+Virginia;US;523;4;0;519
+Virginia;US;180;2;0;178
+Virginia;US;3483;30;0;3453
+Virginia;US;262;4;0;258
+Virginia;US;3147;63;0;3084
+Virginia;US;778;11;0;767
+Virginia;US;1237;17;0;1220
+Virginia;US;493;30;0;463
+Virginia;US;470;3;0;467
+Virginia;US;53976;732;0;53244
+Virginia;US;369;10;0;359
+Virginia;US;242;6;0;236
+Virginia;US;3089;30;0;3059
+Virginia;US;623;18;0;605
+Virginia;US;985;11;0;974
+Virginia;US;2942;28;0;2914
+Virginia;US;761;18;0;743
+Virginia;US;4797;37;0;4760
+Virginia;US;1265;13;0;1252
+Virginia;US;919;38;0;881
+Virginia;US;839;6;0;833
+Virginia;US;1217;14;0;1203
+Virginia;US;844;7;0;837
+Virginia;US;953;26;0;927
+Virginia;US;725;4;0;721
+Virginia;US;1125;17;0;1108
+Virginia;US;1703;47;0;1656
+Virginia;US;5705;57;0;5648
+Virginia;US;5079;83;0;4996
+Virginia;US;5037;53;0;4984
+Virginia;US;15877;316;0;15561
+Virginia;US;3330;64;0;3266
+Virginia;US;67;0;0;67
+Virginia;US;1314;12;0;1302
+Virginia;US;1860;33;0;1827
+Virginia;US;2685;33;0;2652
+Virginia;US;948;10;0;938
+Virginia;US;608;5;0;603
+Virginia;US;214;2;0;212
+Virginia;US;466;3;0;463
+Virginia;US;1915;32;0;1883
+Virginia;US;722;13;0;709
+Virginia;US;16637;168;0;16469
+Virginia;US;1269;11;0;1258
+Virginia;US;492;3;0;489
+Virginia;US;5369;60;0;5309
+Virginia;US;394;5;0;389
+Virginia;US;3389;29;0;3360
+Virginia;US;1035;8;0;1027
+Virginia;US;1230;28;0;1202
+Virginia;US;384;4;0;380
+Virginia;US;1552;42;0;1510
+Virginia;US;345;13;0;332
+Virginia;US;5833;49;0;5784
+Virginia;US;501;4;0;497
+Virginia;US;866;7;0;859
+Virginia;US;7795;76;0;7719
+Virginia;US;11075;123;0;10952
+Virginia;US;557;32;0;525
+Virginia;US;517;11;0;506
+Virginia;US;223;3;0;220
+Virginia;US;1493;25;0;1468
+Virginia;US;1321;16;0;1305
+Virginia;US;1351;36;0;1315
+Virginia;US;936;28;0;908
+Virginia;US;2049;35;0;2014
+Virginia;US;3594;41;0;3553
+Virginia;US;465;7;0;458
+Virginia;US;5716;94;0;5622
+Virginia;US;1132;6;0;1126
+Virginia;US;1411;19;0;1392
+Virginia;US;2127;9;0;2118
+Virginia;US;31379;276;0;31103
+Virginia;US;1924;38;0;1886
+Virginia;US;1710;8;0;1702
+Virginia;US;208;2;0;206
+Virginia;US;1123;6;0;1117
+Virginia;US;11231;118;0;11113
+Virginia;US;5689;73;0;5616
+Virginia;US;6102;110;0;5992
+Virginia;US;880;21;0;859
+Virginia;US;4995;62;0;4933
+Virginia;US;1847;21;0;1826
+Virginia;US;1534;32;0;1502
+Virginia;US;1399;40;0;1359
+Virginia;US;2842;81;0;2761
+Virginia;US;2221;62;0;2159
+Virginia;US;1576;44;0;1532
+Virginia;US;6007;74;0;5933
+Virginia;US;6636;34;0;6602
+Virginia;US;2022;47;0;1975
+Virginia;US;4890;100;0;4790
+Virginia;US;286;5;0;281
+Virginia;US;819;14;0;805
+Virginia;US;2840;28;0;2812
+Virginia;US;0;0;0;0
+Virginia;US;22393;177;0;22216
+Virginia;US;1685;36;0;1649
+Virginia;US;3685;62;0;3623
+Virginia;US;1606;19;0;1587
+Virginia;US;874;12;0;862
+Virginia;US;411;8;0;403
+Virginia;US;1966;19;0;1947
+Virginia;US;2509;71;0;2438
+Virginia;US;1619;31;0;1588
+Virginia;US;2040;13;0;2027
+Washington;US;1719;17;0;1702
+Washington;US;1143;25;0;1118
+Washington;US;13465;178;0;13287
+Washington;US;5433;42;0;5391
+Washington;US;832;4;0;828
+Washington;US;16125;165;0;15960
+Washington;US;93;4;0;89
+Washington;US;3164;34;0;3130
+Washington;US;2893;17;0;2876
+Washington;US;195;4;0;191
+Washington;US;9711;87;0;9624
+Washington;US;102;4;0;98
+Washington;US;6724;52;0;6672
+Washington;US;2709;28;0;2681
+Washington;US;1087;22;0;1065
+Washington;US;273;2;0;271
+Washington;US;73015;1152;0;71863
+Washington;US;4701;52;0;4649
+Washington;US;1953;30;0;1923
+Washington;US;569;3;0;566
+Washington;US;2978;36;0;2942
+Washington;US;294;5;0;289
+Washington;US;1950;16;0;1934
+Washington;US;1938;30;0;1908
+Washington;US;599;8;0;591
+Washington;US;526;4;0;522
+Washington;US;30912;415;0;30497
+Washington;US;90;0;0;90
+Washington;US;3801;46;0;3755
+Washington;US;223;1;0;222
+Washington;US;26267;442;0;25825
+Washington;US;30756;415;0;30341
+Washington;US;1364;19;0;1345
+Washington;US;5760;60;0;5700
+Washington;US;1549;4;0;1545
+Washington;US;62;0;0;62
+Washington;US;4102;44;0;4058
+Washington;US;4885;56;0;4829
+Washington;US;2989;35;0;2954
+Washington;US;22988;345;0;22643
+West Virginia;US;998;15;0;983
+West Virginia;US;7982;67;0;7915
+West Virginia;US;1285;28;0;1257
+West Virginia;US;686;1;0;685
+West Virginia;US;1741;45;0;1696
+West Virginia;US;6410;130;0;6280
+West Virginia;US;188;0;0;188
+West Virginia;US;299;4;0;295
+West Virginia;US;363;4;0;359
+West Virginia;US;2151;57;0;2094
+West Virginia;US;532;6;0;526
+West Virginia;US;919;19;0;900
+West Virginia;US;2037;45;0;1992
+West Virginia;US;1228;24;0;1204
+West Virginia;US;2317;74;0;2243
+West Virginia;US;1083;14;0;1069
+West Virginia;US;3971;43;0;3928
+West Virginia;US;1467;42;0;1425
+West Virginia;US;2981;29;0;2952
+West Virginia;US;10239;240;0;9999
+West Virginia;US;719;11;0;708
+West Virginia;US;1021;9;0;1012
+West Virginia;US;2111;65;0;2046
+West Virginia;US;2843;23;0;2820
+West Virginia;US;2538;59;0;2479
+West Virginia;US;1325;26;0;1299
+West Virginia;US;1135;8;0;1127
+West Virginia;US;3675;72;0;3603
+West Virginia;US;2313;72;0;2241
+West Virginia;US;1757;20;0;1737
+West Virginia;US;6432;53;0;6379
+West Virginia;US;796;11;0;785
+West Virginia;US;813;9;0;804
+West Virginia;US;935;9;0;926
+West Virginia;US;3037;57;0;2980
+West Virginia;US;459;3;0;456
+West Virginia;US;710;11;0;699
+West Virginia;US;509;9;0;500
+West Virginia;US;2213;34;0;2179
+West Virginia;US;3496;63;0;3433
+West Virginia;US;3611;38;0;3573
+West Virginia;US;1929;8;0;1921
+West Virginia;US;494;8;0;486
+West Virginia;US;399;6;0;393
+West Virginia;US;629;19;0;610
+West Virginia;US;891;13;0;878
+West Virginia;US;417;6;0;411
+West Virginia;US;488;3;0;485
+West Virginia;US;0;0;0;0
+West Virginia;US;1268;17;0;1251
+West Virginia;US;2100;26;0;2074
+West Virginia;US;219;0;0;219
+West Virginia;US;881;17;0;864
+West Virginia;US;291;1;0;290
+West Virginia;US;6070;79;0;5991
+West Virginia;US;1420;24;0;1396
+Wisconsin;US;1572;13;0;1559
+Wisconsin;US;1150;16;0;1134
+Wisconsin;US;5008;64;0;4944
+Wisconsin;US;1048;18;0;1030
+Wisconsin;US;30190;189;0;30001
+Wisconsin;US;1206;7;0;1199
+Wisconsin;US;1175;23;0;1152
+Wisconsin;US;5466;40;0;5426
+Wisconsin;US;6648;74;0;6574
+Wisconsin;US;3331;58;0;3273
+Wisconsin;US;4959;43;0;4916
+Wisconsin;US;1665;13;0;1652
+Wisconsin;US;37865;237;0;37628
+Wisconsin;US;11595;146;0;11449
+Wisconsin;US;2456;20;0;2436
+Wisconsin;US;3901;30;0;3871
+Wisconsin;US;4148;25;0;4123
+Wisconsin;US;10372;103;0;10269
+Wisconsin;US;445;12;0;433
+Wisconsin;US;12061;82;0;11979
+Wisconsin;US;959;25;0;934
+Wisconsin;US;4892;82;0;4810
+Wisconsin;US;2625;14;0;2611
+Wisconsin;US;1828;17;0;1811
+Wisconsin;US;1841;9;0;1832
+Wisconsin;US;556;36;0;520
+Wisconsin;US;2530;20;0;2510
+Wisconsin;US;7996;68;0;7928
+Wisconsin;US;2859;14;0;2845
+Wisconsin;US;15442;259;0;15183
+Wisconsin;US;2376;27;0;2349
+Wisconsin;US;11601;67;0;11534
+Wisconsin;US;1455;8;0;1447
+Wisconsin;US;2010;41;0;1969
+Wisconsin;US;2885;65;0;2820
+Wisconsin;US;7673;68;0;7605
+Wisconsin;US;14108;194;0;13914
+Wisconsin;US;4151;55;0;4096
+Wisconsin;US;1379;25;0;1354
+Wisconsin;US;772;11;0;761
+Wisconsin;US;99455;1104;0;98351
+Wisconsin;US;3920;27;0;3893
+Wisconsin;US;4440;48;0;4392
+Wisconsin;US;3142;53;0;3089
+Wisconsin;US;19521;175;0;19346
+Wisconsin;US;7841;69;0;7772
+Wisconsin;US;772;6;0;766
+Wisconsin;US;3931;37;0;3894
+Wisconsin;US;3434;30;0;3404
+Wisconsin;US;6357;60;0;6297
+Wisconsin;US;1088;6;0;1082
+Wisconsin;US;21478;293;0;21185
+Wisconsin;US;1218;13;0;1205
+Wisconsin;US;14488;140;0;14348
+Wisconsin;US;1227;15;0;1212
+Wisconsin;US;5094;40;0;5054
+Wisconsin;US;1362;17;0;1345
+Wisconsin;US;4852;75;0;4777
+Wisconsin;US;12753;113;0;12640
+Wisconsin;US;7190;37;0;7153
+Wisconsin;US;1898;26;0;1872
+Wisconsin;US;3269;34;0;3235
+Wisconsin;US;0;0;0;0
+Wisconsin;US;1720;34;0;1686
+Wisconsin;US;1900;33;0;1867
+Wisconsin;US;10431;126;0;10305
+Wisconsin;US;1223;17;0;1206
+Wisconsin;US;14424;113;0;14311
+Wisconsin;US;41264;424;0;40840
+Wisconsin;US;5229;140;0;5089
+Wisconsin;US;2203;26;0;2177
+Wisconsin;US;18336;183;0;18153
+Wisconsin;US;6507;74;0;6433
+Wyoming;US;3659;10;0;3649
+Wyoming;US;920;22;0;898
+Wyoming;US;4483;45;0;4438
+Wyoming;US;1092;16;0;1076
+Wyoming;US;887;13;0;874
+Wyoming;US;399;9;0;390
+Wyoming;US;4249;71;0;4178
+Wyoming;US;1086;19;0;1067
+Wyoming;US;318;2;0;316
+Wyoming;US;587;9;0;578
+Wyoming;US;7754;75;0;7679
+Wyoming;US;1057;11;0;1046
+Wyoming;US;7109;103;0;7006
+Wyoming;US;145;2;0;143
+Wyoming;US;2434;16;0;2418
+Wyoming;US;526;9;0;517
+Wyoming;US;2787;17;0;2770
+Wyoming;US;634;7;0;627
+Wyoming;US;3290;26;0;3264
+Wyoming;US;2685;4;0;2681
+Wyoming;US;1817;9;0;1808
+Wyoming;US;0;0;0;0
+Wyoming;US;843;23;0;820
+Wyoming;US;602;4;0;598
+Uganda;Uganda;38085;304;13083;24698
+Cherkasy Oblast;Ukraine;43802;478;34253;9071
+Chernihiv Oblast;Ukraine;32508;496;20723;11289
+Chernivtsi Oblast;Ukraine;42843;832;33831;8180
+Crimea Republic*;Ukraine;29509;646;23616;5247
+Dnipropetrovsk Oblast;Ukraine;64337;1645;49502;13190
+Donetsk Oblast;Ukraine;41726;762;35097;5867
+Ivano-Frankivsk Oblast;Ukraine;45250;863;39091;5296
+Kharkiv Oblast;Ukraine;74750;1244;62891;10615
+Kherson Oblast;Ukraine;19723;511;14077;5135
+Khmelnytskyi Oblast;Ukraine;42394;737;37572;4085
+Kiev;Ukraine;122696;2190;47862;72644
+Kiev Oblast;Ukraine;66098;1064;46144;18890
+Kirovohrad Oblast;Ukraine;9371;295;5494;3582
+Luhansk Oblast;Ukraine;13039;354;9497;3188
+Lviv Oblast;Ukraine;67373;1949;54028;11396
+Mykolaiv Oblast;Ukraine;36455;591;17323;18541
+Odessa Oblast;Ukraine;78407;1240;60695;16472
+Poltava Oblast;Ukraine;41097;832;33639;6626
+Rivne Oblast;Ukraine;44088;541;40777;2770
+Sevastopol*;Ukraine;8321;319;7560;442
+Sumy Oblast;Ukraine;44300;575;39119;4606
+Ternopil Oblast;Ukraine;36104;495;32616;2993
+Vinnytsia Oblast;Ukraine;24898;452;19319;5127
+Volyn Oblast;Ukraine;35265;554;32443;2268
+Zakarpattia Oblast;Ukraine;29772;680;26409;2683
+Zaporizhia Oblast;Ukraine;61777;723;36517;24537
+Zhytomyr Oblast;Ukraine;42609;699;37041;4869
+United Arab Emirates;United Arab Emirates;253261;745;225374;27142
+Anguilla;United Kingdom;15;0;15;0
+Bermuda;United Kingdom;670;12;583;75
+British Virgin Islands;United Kingdom;114;1;95;18
+Cayman Islands;United Kingdom;374;2;328;44
+Channel Islands;United Kingdom;3363;78;3049;236
+England;United Kingdom;2958104;78076;0;2880028
+Falkland Islands (Malvinas);United Kingdom;32;0;27;5
+Gibraltar;United Kingdom;3670;43;2689;938
+Isle of Man;United Kingdom;428;25;354;49
+Montserrat;United Kingdom;13;1;12;0
+Northern Ireland;United Kingdom;95361;1606;0;93755
+Scotland;United Kingdom;162333;5305;0;157028
+Turks and Caicos Islands;United Kingdom;1102;6;890;206
+Wales;United Kingdom;180161;4274;0;175887
+Uruguay;Uruguay;32378;311;23910;8157
+Uzbekistan;Uzbekistan;77968;619;76436;913
+Vanuatu;Vanuatu;1;0;1;0
+Venezuela;Venezuela;119803;1106;113002;5695
+Vietnam;Vietnam;1537;35;1380;122
+West Bank and Gaza;West Bank and Gaza;152031;1718;139131;11182
+Yemen;Yemen;2112;612;1419;81
+Zambia;Zambia;37605;546;26159;10900
+Zimbabwe;Zimbabwe;27203;713;16512;9978
