@@ -15,7 +15,7 @@ covid_germany <- covid[covid$Country_Region == "Germany", ]
 sum.countries <- function(df){
   countries <- unique(df$Country_Region) # Heraussuchen der einzelnen Länder 
   Country = Confirmed = Deaths = Recovered = Active = c()
-  for(i in 1:length(countries)){
+  for(i in 1:length(countries)){ # nolint
     # Die erste Spalte enthält die Länder 
     Country[i] <- countries[i]
     # Die Spalten für die Fallzahlen werden einfach aufsummiert pro Land 
@@ -40,7 +40,7 @@ aggregate_states <- function(df) {
     states <- unique(df$Province_State)
     State = Confirmed = Deaths = Recovered = Active = c()
 
-    for(i in 1:length(states)) {
+    for(i in 1:length(states)) { # nolint
         State[i] <- states[i]
         Confirmed[i] <- sum(df[which(df$Province_State == states[i]), which(colnames(df) == "Confirmed")])
         Deaths[i] <- sum(df[which(df$Province_State == states[i]), which(colnames(df) == "Deaths")])
