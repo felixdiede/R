@@ -50,8 +50,8 @@ colnames(covid_ts_g7_rel)[1] <- "Country_Region"
 kontingenztabelle <- function(df) {
     Leicht = Mittel = Schwer = Spaltensumme = rep(0, nrow(df))
 
-    for(i in 1:nrow(df)) {
-        for(k in 1:ncol(df)) {
+    for(i in 1:nrow(df)) { # nolint
+        for(k in 1:ncol(df)) { # nolint
             if(df[i, k] < 0.01) {
                 Leicht[i] <- Leicht[i] + 1
             } else {
