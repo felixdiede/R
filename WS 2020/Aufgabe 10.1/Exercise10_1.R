@@ -1,5 +1,5 @@
 # Aufgabe 10.1
-setwd("/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2020/Aufgabe 10.1")
+setwd("/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2020/Aufgabe 10.1") # nolint
 
 # Aufgabe 10.1 a) 
 covid <- read.csv(file = "covid_19_daily_reports_01-31-2021.csv", header = TRUE, sep = ";")
