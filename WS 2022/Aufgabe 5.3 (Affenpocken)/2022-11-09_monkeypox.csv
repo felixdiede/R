@@ -1,0 +1,106 @@
+Country;Confirmed_Cases;Suspected_Cases;Hospitalized;Travel_History_Yes;Travel_History_No
+Argentina;326;0;0;11;1
+Australia;132;0;2;9;0
+Austria;304;0;2;1;0
+Bahamas;2;0;0;1;0
+Bahrain;1;0;0;1;0
+Bangladesh;0;0;0;0;0
+Barbados;1;0;0;0;0
+Belgium;757;0;2;1;0
+Belize;0;0;0;0;0
+Benin;3;0;0;2;1
+Bolivia;155;0;5;2;1
+Brazil;7300;0;4;20;4
+Bulgaria;6;0;1;3;0
+Cambodia;0;0;0;0;0
+Cameroon;7;27;0;0;0
+Canada;1388;12;1;5;0
+Central African Republic;8;9;0;0;0
+Chile;783;2;2;2;0
+China;1;0;0;1;0
+Colombia;1653;0;0;3;0
+Congo;198;2857;0;0;0
+Costa Rica;4;2;1;4;0
+Croatia;29;0;0;1;0
+Cuba;2;0;2;2;0
+Cyprus;5;0;3;2;0
+Denmark;183;0;0;3;1
+Dominican Republic;31;1;5;1;0
+Ecuador;93;1;2;1;0
+Egypt;1;0;1;0;0
+El Salvador;4;0;0;0;0
+Estonia;11;0;0;1;0
+Fiji;0;0;0;0;0
+Finland;33;0;0;3;0
+France;3934;0;1;2;1
+Georgia;2;0;0;0;0
+Germany;3590;0;18;19;16
+Ghana;84;317;1;0;0
+Greece;72;0;2;2;0
+Guatemala;15;0;0;1;0
+Guyana;2;0;2;0;0
+Haiti;0;0;0;0;0
+Honduras;6;0;0;0;0
+Hungary;77;0;0;0;0
+Iceland;12;0;0;1;0
+India;12;0;4;4;1
+Indonesia;1;0;0;1;0
+Iran;1;3;0;0;0
+Ireland;178;0;0;0;0
+Israel;250;0;3;5;0
+Italy;837;0;18;19;4
+Jamaica;13;0;0;2;4
+Japan;4;0;4;3;0
+Jordan;1;0;0;1;0
+Kosovo;0;0;1;0;0
+Latvia;5;0;0;1;0
+Lebanon;11;0;0;4;0
+Liberia;2;0;0;0;0
+Lithuania;5;0;0;0;0
+Luxembourg;55;0;0;0;0
+Malawi;0;0;0;0;0
+Malaysia;0;0;0;0;0
+Malta;33;0;0;1;0
+Mauritius;0;0;0;2;1
+Mexico;1367;0;0;3;0
+Moldova;2;0;1;0;0
+Monaco;3;0;0;0;0
+Montenegro;2;0;0;0;0
+Morocco;3;0;0;1;0
+Nepal;0;0;1;1;0
+Netherlands;1221;0;0;1;0
+New Zealand;5;0;0;4;0
+Nigeria;277;427;0;0;0
+Norway;90;0;0;3;0
+Pakistan;0;1;1;0;0
+Panama;13;0;0;3;0
+Paraguay;1;0;0;2;0
+Peru;2251;0;2;2;0
+Philippines;4;0;1;3;1
+Poland;173;0;1;0;0
+Portugal;908;0;0;0;34
+Qatar;5;0;1;0;0
+Romania;39;0;7;0;0
+Russia;2;0;1;2;0
+Saudi Arabia;8;0;1;3;0
+Serbia;40;0;0;0;0
+Sierra Leone;0;2;0;0;0
+Singapore;19;0;8;4;0
+Slovakia;14;0;2;3;0
+Slovenia;46;0;0;2;0
+Somalia;0;3;3;1;0
+South Africa;5;0;0;3;2
+South Sudan;2;0;0;0;0
+Spain;7083;0;13;2;0
+Sudan;6;1;0;0;0
+Sweden;186;0;0;0;0
+Switzerland;503;0;0;3;0
+Taiwan;3;0;1;3;0
+Thailand;8;0;4;5;0
+Turkey;11;0;0;0;0
+Uganda;0;6;0;0;0
+Ukraine;2;0;1;0;1
+United Arab Emirates;16;0;0;1;0
+Uruguay;6;0;0;5;0
+Venezuela;5;0;0;3;0
+Zambia;0;1;0;1;0
