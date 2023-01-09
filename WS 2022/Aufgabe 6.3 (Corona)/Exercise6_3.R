@@ -1,5 +1,5 @@
-# Aufgabe 6.3 
-setwd("/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2022/Aufgabe 6.3 (Corona)")
+# Aufgabe 6.3  # nolint
+setwd("/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2022/Aufgabe 6.3 (Corona)") # nolint
 
 load("time_series_covid19_confirmed_11-16-2022.rda")
 
@@ -8,9 +8,9 @@ my_mean <- function(vector) {
     return(sum(vector) / length(vector))
 }
 
-mean_jan_22_2020 <- my_mean(corona[corona$Date == "2020-01-20", 1:ncol(corona) - 1])
-mean_jan_22_2021 <- my_mean(corona[corona$Date == "2020-01-21", 1:ncol(corona) - 1])
-mean_jan_22_2022 <- my_mean(corona[corona$Date == "2020-01-22", 1:ncol(corona) - 1])
+mean_jan_22_2020 <- my_mean(corona[corona$Date == "2020-01-20", 1:ncol(corona) - 1]) # nolint
+mean_jan_22_2021 <- my_mean(corona[corona$Date == "2020-01-21", 1:ncol(corona) - 1]) # nolint
+mean_jan_22_2022 <- my_mean(corona[corona$Date == "2020-01-22", 1:ncol(corona) - 1]) # nolint
 
 # Aufgabe 6.3 c) 
 my_median <- function(df) {
@@ -28,9 +28,9 @@ my_median <- function(df) {
     return(median)
 }
 
-median_jan_22_2020 <- my_median(corona[corona$Date == "2020-01-20", 1:ncol(corona) - 1])
-median_jan_22_2021 <- my_median(corona[corona$Date == "2021-01-20", 1:ncol(corona) - 1])
-median_jan_22_2022 <- my_median(corona[corona$Date == "2022-01-20", 1:ncol(corona) - 1])
+median_jan_22_2020 <- my_median(corona[corona$Date == "2020-01-20", 1:ncol(corona) - 1]) # nolint
+median_jan_22_2021 <- my_median(corona[corona$Date == "2021-01-20", 1:ncol(corona) - 1]) # nolint
+median_jan_22_2022 <- my_median(corona[corona$Date == "2022-01-20", 1:ncol(corona) - 1]) # nolint
 
 
 # Aufgabe 6.3 d) 
