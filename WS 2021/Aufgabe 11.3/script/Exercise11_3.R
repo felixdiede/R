@@ -8,7 +8,7 @@ world <- read.csv(file = "data/World_Countries.csv", header = TRUE, sep = ";")
 sum.countries <- function(df){
   countries <- unique(df$Country_Region) # Heraussuchen der einzelnen Länder 
   Country = Confirmed = Deaths = c()
-  for(i in 1:length(countries)){
+  for(i in 1:length(countries)){ # nolint
     # Die erste Spalte enthält die Länder 
     Country[i] <- countries[i]
     # Die Spalten für die Fallzahlen werden einfach aufsummiert pro Land 
