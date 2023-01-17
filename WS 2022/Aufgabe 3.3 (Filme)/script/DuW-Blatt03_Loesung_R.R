@@ -9,7 +9,7 @@ summary(marvel)
 
 # b) 
 marvel$success = rep(0, nrow(marvel))
-for(m in 1:nrow(marvel)){
+for(m in 1:nrow(marvel)){ # nolint
   marvel$success[m] = 100/marvel$production_budget[m] * marvel$worldwide_box_office[m]
 }
 

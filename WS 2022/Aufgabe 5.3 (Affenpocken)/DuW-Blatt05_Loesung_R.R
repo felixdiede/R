@@ -17,7 +17,7 @@ print(betroffene_laender[1:10])
 
 affenpocken$percentage_hospitalized = rep(0, nrow(affenpocken))
 
-for(i in 1:nrow(affenpocken)){
+for(i in 1:nrow(affenpocken)){ # nolint
   if(affenpocken$Confirmed_Cases[i] > 0 && affenpocken$Hospitalized[i] > 0){
     affenpocken$percentage_hospitalized[i] = 100 / affenpocken$Confirmed_Cases[i] * affenpocken$Hospitalized[i]
   }

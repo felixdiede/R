@@ -60,7 +60,7 @@ handball$tore = handball$tore_mannschaft1 + handball$tore_mannschaft2
 
 ws_t = c()
 tore_sort = sort(unique(handball$tore))
-for(t in 1:length(tore_sort)){
+for(t in 1:length(tore_sort)){ # nolint
   relevante_daten = handball[handball$tore == tore_sort[t],]
   ws_t[t] = nrow(relevante_daten)/nrow(handball) 
 }
