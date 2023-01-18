@@ -1,7 +1,6 @@
 # Aufgabe 7.3 (greenhouse) 
 setwd("/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2022/Aufgabe 7.3 (greenhouse)")
 
-greenhouse <- read.csv(file = "data/greenhouse.csv", header = TRUE, sep = ";")
 
 # Aufgabe 7.3 b)
 
@@ -52,12 +51,6 @@ berechne_rel_summe <- function(df, column) {
         summe[i] <- sum(df[which(df[, which(colnames(df) == column)] == elemente[i]), which(colnames(df) == "Rel.Tonnes.Co2e")])
     }
 
-    df_cum <- data.frame(
-        Element = element, 
-        Sum = summe
-    )
-
-    return(df_cum)
 }
 
 greenhouse_subsector_rel = berechne_rel_summe(greenhouse, "Subsector")
@@ -68,19 +61,3 @@ print(head(greenhouse_subsector_rel))
 greenhouse_sector_rel = berechne_rel_summe(greenhouse, "Sector")
 greenhouse_sector_rel = greenhouse_sector_rel[order(greenhouse_sector_rel$Sum, decreasing = T),]
 print(head(greenhouse_sector_rel))
-
-# Aufsummieren über Länder 
-greenhouse_laender_rel = berechne_rel_summe(greenhouse, "Country")
-greenhouse_laender_rel = greenhouse_laender_rel[order(greenhouse_laender_rel$Sum, decreasing = T),]
-print(head(greenhouse_laender_rel))
-
-# Aufgabe 7.3 f) 
-sd_sector <- sd(greenhouse_sector$Sum)
-var_sector <- var(greenhouse_sector$Sum)
-
-
-# Aufgabe 7.3 g) 
-mean_CO2 <- mean(greenhouse$Tonnes.Co2e)
-median_CO2 <- median(greenhouse$Tonnes.Co2e)
-
-# median < mean -> linksschief/ rechtssteil

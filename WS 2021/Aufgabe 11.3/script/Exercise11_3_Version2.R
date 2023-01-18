@@ -1,5 +1,5 @@
 # Aufgabe 11.3 a)
-covid <- read.csv(file = "/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2021/Aufgabe 11.3/data/covid_19_daily_reports_01-15-2022.csv", header = TRUE, sep = ";")
+covid <- read.csv(file = "/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2021/Aufgabe 11.3/data/covid_19_daily_reports_01-15-2022.csv", header = TRUE, sep = ";") # nolint
 world <- read.csv(file = "/Users/felixdiederichs/Desktop/Wirtschaftsinformatik/5. Semester/Daten und Wahrscheinlichkeiten/R/WS 2021/Aufgabe 11.3/data/World_Countries.csv", header = T, sep = ";")
 
 
@@ -11,7 +11,7 @@ sum.countries <- function(df) {
                                        Bestätigt = c(), 
                                        Tod = c())
 
-    for(i in 1:length(countries)) {
+    for(i in 1:length(countries)) { # nolint
         countries_aggregrated[i, 1] <- countries[i]
         Confirmed <- sum(df$Confirmed[df$Country_Region == countries[i]])
         countries_aggregrated[i, 2] <- Confirmed
